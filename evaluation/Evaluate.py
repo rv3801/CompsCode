@@ -2,38 +2,52 @@ from riotwatcher import LolWatcher
 import regex
 from pathlib import Path
 from requests import session
-import json
 from AnalyzeMatch import analyze_match
 
-def validate_name(name):
-	# A Riot ID can contain between 3-16 characters before the # and
-	# between 3-5 characters after. These characters can be any
-	# Unicode letter. This regular expression checks if the given 
-	# name matches this pattern and returns False if not correct.
-	if (regex.match("^\p{Letter}{3,16}#\p{Letter}{3,5}$", name)):
-		return True
-	print("Invalid name, try again.")
-	return False
+def main():
 
-def evaluate_start():
-	# A makeshift do/while loop, asks for a Riot ID first to validate,
-	# then loops until a valid ID is passed through.
+	def validate_name(riot_id):
+		"""
+		Validates Riot ID.
+
+		A Riot ID consists of a 3-16 character "game name" followed
+		by a "#" symbol and a 3-5 character "tag". The game name and
+		the tag can be any Unicode letter.
+
+		Validating the ID before using it elsewhere prevents any unwanted
+		or unintended issues.
+
+		Parameters
+		----------
+		riot_id : str
+			Riot ID that will be validated
+		
+		Returns
+		-------
+		bool
+			Returns True or False based on Riot Id validity
+		"""
+		if (regex.match("^\p{Letter}{3,16}#\p{Letter}{3,5}$", riot_id)):
+			return True
+		print("Invalid name, try again.")
+		return False
+
+
+
 	valid_name = False
 	while(not valid_name):
 		user_name = input("Enter the player's Riot ID with tag (ex. \"name#tag\"): ")
 		valid_name = validate_name(user_name)
 
-	# After the name is verified, start the evaluation process by getting
-	# a list of the player's TODO most recent games.
+	# Splits Riot ID for use by API
 	user_game_name = user_name[:user_name.find("#")]
 	user_tag = user_name[user_name.find("#") + 1:]
 
-	# Uses Path() to avoid working directory issues with finding the .txt file
 	filepath = Path(__file__).parent / "RiotAPIKey.txt"
 	with open(filepath, "r") as f:
 		api_key = f.read()
 
-	# API call for unsupported endpoint
+	# API call for endpoint unsupported by riotwatcher
 	this_session = session()
 	user_puuid = this_session.get(
 		f"https://americas.api.riotgames.com/riot/account/v1/accounts/by-riot-id/{user_game_name}/{user_tag}",
@@ -42,10 +56,11 @@ def evaluate_start():
 
 	lol_watcher = LolWatcher(api_key)
 	user_region = "NA1"
-	# Use https://static.developer.riotgames.com/docs/lol/queues.json to find queue number
-	user_matchlist = lol_watcher.match.matchlist_by_puuid(region=user_region, puuid=user_puuid, count=5)
+	
+	user_matchlist = lol_watcher.match.matchlist_by_puuid(region=user_region, puuid=user_puuid, count=5) # Use https://static.developer.riotgames.com/docs/lol/queues.json to find queue number
 
 	for user_match in user_matchlist:
 		analyze_match(user_match, user_puuid)
 	
-evaluate_start()
+if __name__ == "__main__":
+    main()
