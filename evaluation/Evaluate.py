@@ -3,6 +3,7 @@ import regex
 from pathlib import Path
 from requests import session
 import json
+from AnalyzeMatch import analyze_match
 
 def validate_name(name):
 	# A Riot ID can contain between 3-16 characters before the # and
@@ -31,7 +32,6 @@ def evaluate_start():
 	filepath = Path(__file__).parent / "RiotAPIKey.txt"
 	with open(filepath, "r") as f:
 		api_key = f.read()
-	lol_watcher = LolWatcher(api_key)
 
 	# API call for unsupported endpoint
 	this_session = session()
@@ -39,5 +39,13 @@ def evaluate_start():
 		f"https://americas.api.riotgames.com/riot/account/v1/accounts/by-riot-id/{user_game_name}/{user_tag}",
 		headers={"X-Riot-Token": api_key}
 	).json()["puuid"]
+
+	lol_watcher = LolWatcher(api_key)
+	user_region = "NA1"
+	# Use https://static.developer.riotgames.com/docs/lol/queues.json to find queue number
+	user_matchlist = lol_watcher.match.matchlist_by_puuid(region=user_region, puuid=user_puuid, count=5)
+
+	for user_match in user_matchlist:
+		analyze_match(user_match, user_puuid)
 	
 evaluate_start()
