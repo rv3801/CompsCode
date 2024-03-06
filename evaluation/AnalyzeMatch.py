@@ -133,12 +133,17 @@ def get_match_frames(match_timeline, user_puuid):
 								current_items.insert(len(current_items), event["itemId"])
 
 							case "ITEM_DESTROYED":
-								non_purchase_items = (0, 2010, 2051,  2052, 2138, 2139, 2140, 2150, 2151, 2152, 2422, 3340, 3513)
+								non_purchase_items = (0, 2010, 2051,  2052, 2138, 2139, 2140, 2150, 2151, 2152, 2403, 2421, 2422, 3340, 3400, 3513, 3599, 3866, 3867)
 
 								if event["itemId"] in non_purchase_items:
 									pass
 								else:
-									current_items.remove(event["itemId"])
+									if (event["itemId"] == 2055) and (event["itemId"] not in current_items): # CASE: player purchases 2 control wards, but destroys 3. Match: KR_6964987876 Timestamp: 1738274
+										pass
+									elif (event["itemId"] == 4638) and (event["itemId"] not in current_items):# CASE: player destroys 2 watchful wardstones, can only own 1. Match: KR_6964987876 Timestamp: 1839921
+										pass
+									else:
+										current_items.remove(event["itemId"])
 
 							case "ITEM_UNDO":
 								if event["beforeId"] == 0: # Undo a sell
