@@ -3,7 +3,7 @@ import regex
 from pathlib import Path
 import urllib.parse
 from requests import session
-from AnalyzeMatch import analyze_match
+from LoLMatch import LoLMatch
 
 def main():
 	valid_name = False
@@ -31,10 +31,12 @@ def main():
 	lol_watcher = LolWatcher(api_key)
 	user_region = "NA1"
 	
-	user_matchlist = lol_watcher.match.matchlist_by_puuid(region=user_region, puuid=user_puuid, count=10) # Use https://static.developer.riotgames.com/docs/lol/queues.json to find queue number
+	user_matchlist = lol_watcher.match.matchlist_by_puuid(region=user_region, puuid=user_puuid, count=1) # Use https://static.developer.riotgames.com/docs/lol/queues.json to find queue number
 
 	for user_match in user_matchlist:
-		analyze_match(user_match, user_puuid)
+		this_match = LoLMatch(user_match)
+		print(this_match.match_summary())
+		print(this_match.participants_summary())
 	
 if __name__ == "__main__":
     main()
