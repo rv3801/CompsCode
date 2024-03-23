@@ -29,14 +29,14 @@ def main():
 	).json()["puuid"]
 
 	lol_watcher = LolWatcher(api_key)
-	user_region = "NA1"
+	user_region = "KR"
 	
 	user_matchlist = lol_watcher.match.matchlist_by_puuid(region=user_region, puuid=user_puuid, count=1) # Use https://static.developer.riotgames.com/docs/lol/queues.json to find queue number
 
 	for user_match in user_matchlist:
 		this_match = LoLMatch(user_match)
-		print(this_match.match_summary())
-		print(this_match.participants_summary())
+		this_match.match_summary()
+		this_match.participants_summary()
 	
 if __name__ == "__main__":
     main()

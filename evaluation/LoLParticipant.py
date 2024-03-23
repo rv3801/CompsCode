@@ -22,4 +22,4 @@ class LoLParticipant:
 		return f"Participant {self.participant_id} ({self.champion_name}): {organize_timeline}"
 	
 	def get_state(self, timestamp):
-		pass
+		return {"champion_id": self.champion_id, "champion_name": self.champion_name, "state": self.timeline[timestamp]}

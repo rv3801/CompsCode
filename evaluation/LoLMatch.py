@@ -1,6 +1,7 @@
 from riotwatcher import LolWatcher
 from pathlib import Path
 from LoLParticipant import LoLParticipant
+from LoLDamageCalculator import LoLDamageCalculator
 
 filepath = Path(__file__).parent / "RiotAPIKey.txt"
 with open(filepath, "r") as f:
@@ -12,8 +13,8 @@ class LoLMatch:
 		self.match_id = match_id
 
 		lol_watcher = LolWatcher(api_key)
-		user_region = "NA1"
-		match_info = lol_watcher.match.by_id(user_region, match_id)
+		self.match_region = self.match_id[:self.match_id.find("_")]
+		match_info = lol_watcher.match.by_id(self.match_region, match_id)
 
 		self.match_patch = match_info["info"]["gameVersion"]
 
@@ -133,13 +134,27 @@ class LoLMatch:
 		return return_items_skills
 	
 	def match_summary(self):
-		return f"Match ID: {self.match_id}\nMatch Patch: {self.match_patch}"
+		print(f"Match ID: {self.match_id}\nMatch Patch: {self.match_patch}\nMatch Region:{self.match_region}")
 	
 	def participants_summary(self):
-		return_string = ""
+		summary_string = ""
 		for participant in self.match_participants:
-			return_string = return_string + str(participant) + "\n"
-		return return_string
+			summary_string = summary_string + str(participant) + "\n"
+		print(summary_string)
+	
+	def find_participant(self, puuid): #return participant_id for given puuid
+		return [participant.participant_id for participant in self.match_participants if participant.puuid == puuid][0]
+	
+	def calculate_participant_damage(self, puuid):
+		current_participant = [participant for participant in self.match_participants if participant.puuid == puuid][0]
+
+		damage_calculator = LoLDamageCalculator()
+
+		damage_calculator.calculate_damage_summary(current_participant, [self.match_participants[x] for x in range(1, 6)], self.match_timestamps[4])
+
+		# print(current_participant)
+	
+
 	
 	def get_participant_timeline(self):
 		return self.match_participants[0].get_timeline()
