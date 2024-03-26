@@ -37,6 +37,7 @@ def main():
 		this_match = LoLMatch(user_match)
 		this_match.match_summary()
 		this_match.participants_summary()
+		this_match.calculate_participant_damage(user_puuid)
 	
 if __name__ == "__main__":
     main()

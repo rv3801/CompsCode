@@ -29,11 +29,12 @@ class LoLDamageCalculator:
 			current_participant_state = current_participant.get_state(timestamp)
 			enemy_participants_states = {enemy_participant.participant_id: enemy_participant.get_state(timestamp) for enemy_participant in enemy_participants}
 
-			print(f"Match state at timestamp {timestamp}")
-			print(f"Current Participant: ({current_participant.champion_name})\n{current_participant_state}")
+			print("\n============================")
+			print(f"Damage at timestamp {timestamp}")
+			# print(f"Current Participant: ({current_participant.champion_name})\n{current_participant_state}")
 			for enemy_state in enemy_participants_states:
 				current_enemy_state = enemy_participants_states[enemy_state]
-				print(f"Enemy {enemy_state}:\n{current_enemy_state}")
+				# print(f"Enemy {enemy_state}:\n{current_enemy_state}")
 				self.calculate_vs_damage(current_participant_state, current_enemy_state)
 			pass
 	
@@ -41,18 +42,155 @@ class LoLDamageCalculator:
 		#first get stats
 		# offense: base AD*, bonus AD, AP, crit damage, armor pen, lethality, magic pen, 
 		# defense: base health*, bonus health, armor*, bonus armor, magic resistance*, bonus magic resistance
-		# utility: mana*
-		print("vvvvvvvvvvvvvvvvvvvvv\ncalculate_vs_damage")
+		# utility: mana*, FIXME movement speed
+		# print("vvvvvvvvvvvvvvvvvvvvv\ncalculate_vs_damage")
 
 		current_par_stats = self.__get_current_stats(current_participant_state)
-		print(f"Current Participant:\n{current_par_stats}")
+		current_par_champion_info = self.get_champion_byName(current_participant_state["champion_name"])
+		# print(f"Current Participant:\n{current_par_stats}")
 
 		enemy_par_stats = self.__get_current_stats(enemy_participant_state)
-		print(f"Enemy Participant:\n{enemy_par_stats}")
-		print("^^^^^^^^^^^^^^^^^^^^^")
+		# print(f"Enemy Participant:\n{enemy_par_stats}")
+		# print("^^^^^^^^^^^^^^^^^^^^^")
 
 
-		#TODO calculations below
+		champion_abilities = {"Q": 0, "W": 1, "E": 2, "R": 3}
+		print(f"Current Participant ({current_participant_state['champion_name']}) Damage versus {enemy_participant_state['champion_name']}:")
+		
+		#attack damage
+		attack_damage = 0
+
+		#abilities damage
+		for ability in champion_abilities:
+			current_ability_level = current_participant_state["state"]["skills"][champion_abilities[ability]]
+			print(f"{ability} Ability:\n\tAbility Level: {current_ability_level}")
+			if current_ability_level == 0:
+				continue
+
+			current_ability_info = current_par_champion_info["abilities"][ability][0]
+			current_ability_damage_type = current_ability_info["damageType"]
+			# print(f"\tDamage Type: {current_ability_damage_type}")
+			if current_ability_damage_type == None:
+				continue
+
+			total_ability_damage = {"magic_damage": 0, "physical_damage": 0, "true_damage": 0}
+
+			damage_type_routing = { #used by effect attributes
+				"Magic Damage": "magic_damage",
+				"Physical Damage": "physical_damage",
+				"True Damage": "true_damage",
+				"Initial Magic Damage": "magic_damage",
+				"Initial Physical Damage": "physical_damage",
+				"Bonus Magic Damage": "magic_damage",
+				"Bonus Magic Damage Per Hit": "magic_damage",
+				"Bonus Magic Damage On-Hit": "magic_damage",
+				"Bonus Magic Damage per Stack": "magic_damage",
+				"Bonus Physical Damage": "physical_damage",
+				"Bonus Physical Damage per Hit": "physical_damage",
+				"Bonus Physical Damage per Tick": "physical_damage",
+				"Bonus Physical Damage On-Hit": "physical_damage",
+				"Bonus True Damage": "true_damage",
+				"ChampionTrue Damage": "true_damage"
+			}
+
+			for effect in current_ability_info["effects"]:
+				# print("\t>" + effect["description"])
+
+				for leveling_attribute in effect["leveling"]:
+					# print("\t\tAttribute: " + leveling_attribute["attribute"])
+					if leveling_attribute["attribute"] not in damage_type_routing:
+						continue
+
+					# print("\t\tModifiers:")
+
+					for modifier in leveling_attribute["modifiers"]:
+						modifier_base_value = modifier["values"][current_ability_level - 1]
+						modifier_unit = modifier["units"][current_ability_level - 1]
+						# print("\t\t\tValue: " + str(modifier["values"][current_ability_level - 1]) + str(modifier["units"][current_ability_level - 1]))
+
+						match modifier_unit:
+							case '':
+								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + modifier_base_value
+							case "% AP":
+								current_ap = current_par_stats["offense"]["ap"]["flat"]
+								modifier_decimal = modifier_base_value / 100
+								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + (current_ap * modifier_decimal)
+								pass
+							case "% AD":
+								current_ad = current_par_stats["offense"]["base_ad"] + current_par_stats["offense"]["bonus_ad"]
+								modifier_decimal = modifier_base_value / 100
+								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + (current_ad * modifier_decimal)
+								pass
+							case "% armor":
+								current_armor = current_par_stats["defense"]["base_armor"] + current_par_stats["defense"]["bonus_armor"]
+								modifier_decimal = modifier_base_value / 100
+								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + (current_armor * modifier_decimal)
+								pass
+							case "% bonus AD":
+								current_bonus_ad = current_par_stats["offense"]["bonus_ad"]
+								modifier_decimal = modifier_base_value / 100
+								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + (current_bonus_ad * modifier_decimal)
+								pass
+							case "% bonus health":
+								current_bonus_health = current_par_stats["defense"]["bonus_health"]
+								modifier_decimal = modifier_base_value / 100
+								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + (current_bonus_health * modifier_decimal)
+								pass
+							case "% bonus magic resistance":
+								current_bonus_magic_resist = current_par_stats["defense"]["bonus_magic_resist"]
+								modifier_decimal = modifier_base_value / 100
+								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + (current_bonus_magic_resist * modifier_decimal)
+								pass
+							case "% bonus movement speed":
+								pass
+			# print("\tTotal Premit Damage:")
+			# magic_damage = total_ability_damage["magic_damage"]
+			# print(f"\t\tMagic: {magic_damage}")
+			# physical_damage = total_ability_damage["physical_damage"]
+			# print(f"\t\tPhysical: {physical_damage}")
+			# true_damage = total_ability_damage["true_damage"]
+			# print(f"\t\tTrue: {true_damage}")
+
+			#calculate mitigated damage
+			#==========================
+
+			#calculate enemy final magic resist
+			if enemy_par_stats["defense"]["bonus_magic_resist"] == 0:
+				enemy_magic_resist = enemy_par_stats["defense"]["magic_resist"]
+			else:
+				enemy_magic_resist = enemy_par_stats["defense"]["magic_resist"] + enemy_par_stats["defense"]["bonus_magic_resist"]["flat"]
+			
+			if current_par_stats["offense"]["magic_pen"] != 0:
+				if "percent" in current_par_stats["offense"]["magic_pen"]:
+					enemy_magic_resist = enemy_magic_resist * ( (100 - current_par_stats["offense"]["magic_pen"]["percent"]) / 100)
+				if "flat" in current_par_stats["offense"]["magic_pen"]:
+					enemy_magic_resist = enemy_magic_resist - current_par_stats["offense"]["magic_pen"]["flat"]
+			
+			#calculate enemy final armor
+			if enemy_par_stats["defense"]["bonus_armor"] == 0:
+				enemy_armor = enemy_par_stats["defense"]["armor"]
+			else:
+				enemy_armor = enemy_par_stats["defense"]["armor"] + enemy_par_stats["defense"]["bonus_armor"]["flat"]
+			
+			if current_par_stats["offense"]["armor_pen"] != 0:
+				enemy_armor = enemy_armor * ( (100 - current_par_stats["offense"]["armor_pen"]["percent"]) / 100)
+			if current_par_stats["offense"]["lethality"] != 0:
+				enemy_armor = enemy_armor - current_par_stats["offense"]["lethality"]["flat"]
+			
+			print("\tTotal Mitigated Damage:")
+			if total_ability_damage["magic_damage"] == 0:
+				mit_magic_damage = 0
+			else:
+				mit_magic_damage = total_ability_damage["magic_damage"] - enemy_magic_resist
+			print(f"\t\tMagic: {mit_magic_damage}")
+			if total_ability_damage["physical_damage"] == 0:
+				mit_physical_damage = 0
+			else:
+				mit_physical_damage = total_ability_damage["physical_damage"] - enemy_armor
+			print(f"\t\tPhysical: {mit_physical_damage}")
+			true_damage = total_ability_damage["true_damage"]
+			print(f"\t\tTrue: {true_damage}") # True damage cannot be mitigated by armor or magic resist
+			
 
 
 	def __get_current_stats(self, state):
