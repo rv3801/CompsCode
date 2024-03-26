@@ -134,13 +134,13 @@ class LoLMatch:
 		return return_items_skills
 	
 	def match_summary(self):
-		print(f"Match ID: {self.match_id}\nMatch Patch: {self.match_patch}\nMatch Region:{self.match_region}")
+		print(f"Match Summary:\n==============\nMatch ID: {self.match_id}\nMatch Patch: {self.match_patch}\nMatch Region: {self.match_region}\n")
 	
 	def participants_summary(self):
 		summary_string = ""
 		for participant in self.match_participants:
 			summary_string = summary_string + str(participant) + "\n"
-		print(summary_string)
+		print(f"Participants:\n=============\n{summary_string}\n")
 	
 	def find_participant(self, puuid): #return participant_id for given puuid
 		return [participant.participant_id for participant in self.match_participants if participant.puuid == puuid][0]
@@ -150,9 +150,27 @@ class LoLMatch:
 
 		damage_calculator = LoLDamageCalculator()
 
-		damage_calculator.calculate_damage_summary(current_participant, [self.match_participants[x] for x in range(1, 6)], self.match_timestamps[4])
+		#TODO calculate which participants are enemy of current participant
+		enemy_participants = []
+		for participant in self.match_participants:
+			if participant.team_id != current_participant.team_id:
+				enemy_participants.append(participant)
 
-		# print(current_participant)
+		#TODO allow user to choose timestamp for calculation OR remove timestamp
+		choice_timestamps = {str(int(timestamp / 60000)) : timestamp for timestamp in self.match_timestamps if timestamp is not self.match_timestamps[len(self.match_timestamps) - 1]}
+		choice_timestamps["End"] = self.match_timestamps[len(self.match_timestamps) - 1]
+		choice_timestamps["All"] = None
+
+		valid_choice = False
+		while(not valid_choice):
+			print("Valid timestamps:")
+			for timestamp in choice_timestamps:
+				print(timestamp)
+			user_timestamp_choice = input("Please choose a timestamp to calculate.\nType 'End' or 'All' to calculate only the end of the match or all of the match.\n")
+			if user_timestamp_choice in choice_timestamps:
+				valid_choice = True
+
+		damage_calculator.calculate_damage_summary(current_participant, enemy_participants, choice_timestamps[user_timestamp_choice])
 	
 
 	
