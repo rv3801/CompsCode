@@ -128,6 +128,12 @@ class LoLMatch:
 
 					return_items_skills[participant_id].update({timestamps[current_timestamp_index]: {"items": insert_items, "skills": insert_skills}})
 				
+				if current_timestamp_index < len(timestamps) - 1:
+					current_timestamp_index += 1
+					while current_timestamp_index < len(timestamps):
+						for participant_id in current_items_skills:
+							return_items_skills[participant_id].update({timestamps[current_timestamp_index]: {"items": insert_items, "skills": insert_skills}})
+						current_timestamp_index += 1
 
 			current_event_index += 1
 
@@ -150,13 +156,11 @@ class LoLMatch:
 
 		damage_calculator = LoLDamageCalculator()
 
-		#TODO calculate which participants are enemy of current participant
 		enemy_participants = []
 		for participant in self.match_participants:
 			if participant.team_id != current_participant.team_id:
 				enemy_participants.append(participant)
 
-		#TODO allow user to choose timestamp for calculation OR remove timestamp
 		choice_timestamps = {str(int(timestamp / 60000)) : timestamp for timestamp in self.match_timestamps if timestamp is not self.match_timestamps[len(self.match_timestamps) - 1]}
 		choice_timestamps["End"] = self.match_timestamps[len(self.match_timestamps) - 1]
 		choice_timestamps["All"] = None
@@ -170,7 +174,8 @@ class LoLMatch:
 			if user_timestamp_choice in choice_timestamps:
 				valid_choice = True
 
-		damage_calculator.calculate_damage_summary(current_participant, enemy_participants, choice_timestamps[user_timestamp_choice])
+		damage_summary = damage_calculator.calculate_damage_summary(current_participant, enemy_participants, choice_timestamps[user_timestamp_choice])
+		return damage_summary
 	
 
 	
