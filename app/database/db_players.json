@@ -1,0 +1,176 @@
+{
+	"teams":[
+		{
+			"team_name": "G2 Esports",
+			"team_shortname": "G2",
+			"team_region": "EUW1",
+			"players":[
+				{
+					"player_ign": "Caps",
+					"player_role": "MIDDLE",
+					"accounts":[
+						{
+							"account_puuid": "40WrNGqU7x_F-8wtcl4t4uI0PabxQaukrMScb5OclvVfnhWoJ4PWDFi2afqqnaATpNlnCsisJ4aAHw",
+							"account_region": "EUW1"
+						}
+					]
+				},
+				{
+					"player_ign": "Hans Sama",
+					"player_role": "BOTTOM",
+					"accounts":[
+						{
+							"account_puuid": "a5V1quRq8pwmV6ACMmKplLKwgxISXNMoLp0C6N8MEyQUqdl6Uyras1xofJDTbPZnCwYn-OKEJj7S-A",
+							"account_region": "EUW1"
+						}
+					]
+				},
+				{
+					"player_ign": "Mikyx",
+					"player_role": "UTILITY",
+					"accounts":[
+						{
+							"account_puuid": "qInx4y4mdZ2yrw-LqqUsceYtYRDZqMEI_FSdl8cJQJiPKu7uMlkXXEXOhFHba3vzWaTcWqQ0iwHLqA",
+							"account_region": "EUW1"
+						}
+					]
+				},
+				{
+					"player_ign": "BrokenBlade",
+					"player_role": "TOP",
+					"accounts":[
+						{
+							"account_puuid": "yI-Sjz3m32nmGMEFCHk32kwSPq7LmJRwnM0bYLalW77y-jn3yTMRiHfl2P_N1CEIY8VxTQmW6WBaJw",
+							"account_region": "EUW1"
+						}
+					]
+				},
+				{
+					"player_ign": "Yike",
+					"player_role": "JUNGLE",
+					"accounts":[
+						{
+							"account_puuid": "1QU0GQr92CVJUxRx3g800Zvj6BCupTrej5jrWDA-Xkd7QxFMdO60mwp-OQ_RqLRZc_hxaN1AHQvfyQ",
+							"account_region": "EUW1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"team_name": "Gen. G",
+			"team_shortname": "GEN",
+			"team_region": "KR",
+			"players":[
+				{
+					"player_ign": "Chovy",
+					"player_role": "MIDDLE",
+					"accounts":[
+						{
+							"account_puuid": "V4qd07GZujUP3KYzQAVfRUjEwDT7zx1GwPzAVWv50Yrv0sfO4empxXviafVYPEblEzL-FUR7QUdT7g",
+							"account_region": "KR"
+						}
+					]
+				},
+				{
+					"player_ign": "Lehands",
+					"player_role": "UTILITY",
+					"accounts":[
+						{
+							"account_puuid": "UgjeAErE-BaPFNKwZSyAeTyOdXedAZ_DZAG32-RCqIBiXPowNWrXHxgb1i09TSrhWsBZKUk3GZRqNg",
+							"account_region": "KR"
+						},
+						{
+							"account_puuid": "KN2fjuKYtXySktLmEMlQPTWWIOQRs4Wl1p4I7Z09MkcLb6yo-TufKN40TxO3Or-8VanUBzGD74MTRA",
+							"account_region": "KR"
+						}
+					]
+				},
+				{
+					"player_ign": "Canyon",
+					"player_role": "JUNGLE",
+					"accounts":[
+						{
+							"account_puuid": "JGbwPudmx69JxydVPS8a6KaEYKYvgjRwYMNerJ3VfIBAPxNKr8BkgCxay5feNoNp-LUF1LLLW3vhGw",
+							"account_region": "KR"
+						}
+					]
+				},
+				{
+					"player_ign": "Peyz",
+					"player_role": "BOTTOM",
+					"accounts":[
+						{
+							"account_puuid": "QK9s3oK-tQQZAaRMfVH8vs0OzZNnJ2g3i4DfzcOzmP1Ocs2sSgbYjYrtSph1GbVMLHc1CDnzu7cIRw",
+							"account_region": "KR"
+						}
+					]
+				}
+			]
+		},
+		{
+			"team_name": "T1",
+			"team_shortname": "T1",
+			"team_region": "KR",
+			"players":[
+				{
+					"player_ign": "Faker",
+					"player_role": "MIDDLE",
+					"accounts":[
+						{
+							"account_puuid": "F4xKaOCbMYRdSxfFi1r6u-dmlx2StLaUDOKortErPsBEtfnvwsP37cmTZKdmmZmbCz9G799uHqKHpw",
+							"account_region": "KR"
+						}
+					]
+				},
+				{
+					"player_ign": "Gumayusi",
+					"player_role": "BOTTOM",
+					"accounts":[
+						{
+							"account_puuid": "UzjZC7HGeLlAcHg6z2ruNfIfIlTRjSiqD2uAkOQkm3Y3S0p0rXYDSC9a56-CZmQwtN6pwZw87ofDzA",
+							"account_region": "KR"
+						}
+					]
+				}
+			]
+		},
+		{
+			"team_name": "Team Liquid",
+			"team_shortname": "TL",
+			"team_region": "NA1",
+			"players":[
+				{
+					"player_ign": "CoreJJ",
+					"player_role": "UTILITY",
+					"accounts":[
+						{
+							"account_puuid": "L0LLhxdgYQ5T8BvR7dru23Iaiswsz2eCYb2mtuPiRD9lL-yucPejt8Ny4eh3ukFZXbDOCuSAHETHuQ",
+							"account_region": "NA1"
+						}
+					]
+				},
+				{
+					"player_ign": "UmTi",
+					"player_role": "JUNGLE",
+					"accounts":[
+						{
+							"account_puuid": "z14hcYhZM0fnwQqCFoYnNXng9uhbhG1VjiYYIzHC32k6-GEWF72SpQR4u6xPthRTmTXD-PSUk8_SBw",
+							"account_region": "KR"
+						}
+					]
+				},
+				{
+					"player_ign": "Yeon",
+					"player_role": "BOTTOM",
+					"accounts":[
+						{
+							"account_puuid": "N7bX3tpkF_EnBm2bpO1GITHP-2VEuOOjrO-dgpX6NL7ziNXkiSzZfA_0lCEW1j1sBik36F369oisaw",
+							"account_region": "KR"
+						}
+					]
+				}
+			]
+		}
+	]
+}
