@@ -1,12 +1,17 @@
 import mysql.connector
 from riotwatcher import LolWatcher
 import json
+from pathlib import Path
 
 cnx = mysql.connector.connect(user='user',
 							host='localhost',
 							port='3306',
 							database='compsdb')
 cursor = cnx.cursor()
+
+filepath = Path(__file__).parent / "RiotAPIKey.txt"
+with open(filepath, "r") as f:
+	api_key = f.read()
 
 api_key = open("RiotAPIKey.txt", "r").read()
 lol_watcher = LolWatcher(api_key)
