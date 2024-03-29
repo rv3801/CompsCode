@@ -1,0 +1,2225 @@
+{
+    "0": {
+        "Kennen": {
+            "Attack": 23.0,
+            "Q": {
+                "Magic": 190.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 381.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 135.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": 16.0,
+            "Q": {
+                "Magic": 188.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 379.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 133.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 25.0,
+            "Q": {
+                "Magic": 190.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 381.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 135.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 25.0,
+            "Q": {
+                "Magic": 190.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 381.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 135.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 22.0,
+            "Q": {
+                "Magic": 188.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 379.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 133.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "60027": {
+        "Kennen": {
+            "Attack": 20.566249999999997,
+            "Q": {
+                "Magic": 68.5825,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 322.685,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 51.082499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": 13.197499999999998,
+            "Q": {
+                "Magic": 65.47625,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 319.57875,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 47.97625,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 23.6725,
+            "Q": {
+                "Magic": 68.5825,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 322.685,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 51.082499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 23.229999999999997,
+            "Q": {
+                "Magic": 68.5825,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 322.685,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 51.082499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 20.082500000000003,
+            "Q": {
+                "Magic": 65.47625,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 319.57875,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 47.97625,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "120037": {
+        "Kennen": {
+            "Attack": 21.98525,
+            "Q": {
+                "Magic": 67.5555,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 422.6465,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 50.0555,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": 14.419000000000004,
+            "Q": {
+                "Magic": 63.85675,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 418.94775,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 46.35675,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 25.683999999999997,
+            "Q": {
+                "Magic": 67.5555,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 422.6465,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 50.0555,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 25.0045,
+            "Q": {
+                "Magic": 67.5555,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 422.6465,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 50.0555,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 21.778000000000006,
+            "Q": {
+                "Magic": 63.85675,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 418.94775,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 46.35675,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "180054": {
+        "Kennen": {
+            "Attack": 17.9015,
+            "Q": {
+                "Magic": 66.483,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 421.574,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 48.983,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": 10.129000000000005,
+            "Q": {
+                "Magic": 62.1655,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 417.2565,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 44.6655,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 22.219,
+            "Q": {
+                "Magic": 66.483,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 421.574,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 48.983,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 21.292,
+            "Q": {
+                "Magic": 66.483,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 421.574,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 48.983,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 17.983000000000004,
+            "Q": {
+                "Magic": 62.1655,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 417.2565,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 44.6655,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "240085": {
+        "Kennen": {
+            "Attack": 16.482499999999995,
+            "Q": {
+                "Magic": 65.36500000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 428.97,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 47.865,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": 8.494999999999997,
+            "Q": {
+                "Magic": 60.4025,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 424.00750000000005,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 42.9025,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 21.444999999999993,
+            "Q": {
+                "Magic": 65.36500000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 428.97,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 47.865,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 20.25999999999999,
+            "Q": {
+                "Magic": 65.36500000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 428.97,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 47.865,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 16.864999999999995,
+            "Q": {
+                "Magic": 60.4025,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 424.00750000000005,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 42.9025,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "300094": {
+        "Kennen": {
+            "Attack": 19.436,
+            "Q": {
+                "Magic": 132.865,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 645.3305,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 77.86500000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": 6.794499999999999,
+            "Q": {
+                "Magic": 126.06775,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 638.5332500000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 71.06775,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 20.639499999999998,
+            "Q": {
+                "Magic": 131.7015,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 644.167,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 76.7015,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 19.186000000000007,
+            "Q": {
+                "Magic": 131.7015,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 644.167,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 76.7015,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 15.701500000000003,
+            "Q": {
+                "Magic": 126.06775,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 638.5332500000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 71.06775,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "360116": {
+        "Kennen": {
+            "Attack": 13.471250000000005,
+            "Q": {
+                "Magic": 130.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 652.165,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 100.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": 5.027500000000003,
+            "Q": {
+                "Magic": 124.16125,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 645.83375,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 94.16125,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 19.802500000000002,
+            "Q": {
+                "Magic": 130.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 652.165,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 100.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 22.25500000000001,
+            "Q": {
+                "Magic": 131.7015,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 653.374,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 101.7015,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 18.770500000000006,
+            "Q": {
+                "Magic": 126.06775,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 647.7402500000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 96.06775,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "420160": {
+        "Kennen": {
+            "Attack": 11.879000000000005,
+            "Q": {
+                "Magic": 129.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 702.9639999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 99.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": 3.1940000000000026,
+            "Q": {
+                "Magic": 122.18299999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 695.909,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 92.18299999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 18.933999999999997,
+            "Q": {
+                "Magic": 129.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 702.9639999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 99.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 21.254500000000007,
+            "Q": {
+                "Magic": 130.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 704.2185,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 100.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 17.677000000000007,
+            "Q": {
+                "Magic": 124.16125,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 697.88725,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 94.16125,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "480192": {
+        "Kennen": {
+            "Attack": 26.879000000000005,
+            "Q": {
+                "Magic": 136.738,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 747.9639999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 102.988,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": 12.993999999999986,
+            "Q": {
+                "Magic": 127.633,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 738.859,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 93.883,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 29.733999999999995,
+            "Q": {
+                "Magic": 135.438,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 746.664,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 101.68799999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 31.912000000000006,
+            "Q": {
+                "Magic": 136.738,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 747.9639999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 102.988,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 28.238000000000007,
+            "Q": {
+                "Magic": 129.683,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 740.909,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 95.93299999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "540223": {
+        "Kennen": {
+            "Attack": 25.228999999999985,
+            "Q": {
+                "Magic": 135.438,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 756.5640000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 126.68799999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": 1.2939999999999827,
+            "Q": {
+                "Magic": 102.633,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 723.7590000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 93.883,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 28.686999999999998,
+            "Q": {
+                "Magic": 134.0925,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 755.2185000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 125.3425,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 30.711999999999996,
+            "Q": {
+                "Magic": 135.438,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 756.5640000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 126.68799999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 26.937999999999988,
+            "Q": {
+                "Magic": 127.633,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 748.7590000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 118.883,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "600233": {
+        "Kennen": {
+            "Attack": 38.52125000000001,
+            "Q": {
+                "Magic": 141.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 810.4649999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 129.0925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": 14.327500000000015,
+            "Q": {
+                "Magic": 108.01125,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 776.88375,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 95.51125,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 47.102500000000006,
+            "Q": {
+                "Magic": 141.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 810.4649999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 129.0925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 44.47,
+            "Q": {
+                "Magic": 141.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 810.4649999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 129.0925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 40.5925,
+            "Q": {
+                "Magic": 133.01125000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 801.88375,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 120.51125,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "660251": {
+        "Kennen": {
+            "Attack": 33.22475,
+            "Q": {
+                "Magic": 140.2015,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 809.074,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 127.7015,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": -6.236499999999992,
+            "Q": {
+                "Magic": 105.81775,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 774.69025,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 93.31775,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 42.60850000000001,
+            "Q": {
+                "Magic": 140.2015,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 809.074,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 127.7015,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 39.655,
+            "Q": {
+                "Magic": 140.2015,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 809.074,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 127.7015,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 35.670500000000004,
+            "Q": {
+                "Magic": 95.81775,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 764.69025,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 83.31775,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "720261": {
+        "Kennen": {
+            "Attack": 36.75574999999998,
+            "Q": {
+                "Magic": 167.2015,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 859.667,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 174.7015,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": -8.451500000000024,
+            "Q": {
+                "Magic": 130.5525,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 823.018,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 138.0525,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 46.139499999999984,
+            "Q": {
+                "Magic": 167.2015,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 859.667,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 174.7015,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 43.18599999999998,
+            "Q": {
+                "Magic": 167.2015,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 859.667,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 174.7015,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 39.20149999999998,
+            "Q": {
+                "Magic": 122.81775,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 815.2832500000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 130.31775,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "780292": {
+        "Kennen": {
+            "Attack": 34.932499999999976,
+            "Q": {
+                "Magic": 165.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 869.17,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 198.265,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": -20.733000000000004,
+            "Q": {
+                "Magic": 128.2155,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 831.6205,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 160.7155,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 45.14499999999998,
+            "Q": {
+                "Magic": 165.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 869.17,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 198.265,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 41.859999999999985,
+            "Q": {
+                "Magic": 165.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 869.17,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 198.265,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 37.764999999999986,
+            "Q": {
+                "Magic": 105.5525,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 808.9575,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 138.0525,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "840320": {
+        "Kennen": {
+            "Attack": 33.051499999999976,
+            "Q": {
+                "Magic": 244.78300000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 977.974,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 214.78300000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": -23.081000000000017,
+            "Q": {
+                "Magic": 206.30675000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 939.49775,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 176.30675000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 44.118999999999986,
+            "Q": {
+                "Magic": 244.78300000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 977.974,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 214.78300000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 40.49199999999999,
+            "Q": {
+                "Magic": 244.78300000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 977.974,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 214.78300000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": 36.28299999999999,
+            "Q": {
+                "Magic": 183.7155,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 916.9065,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 153.7155,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "900322": {
+        "Kennen": {
+            "Attack": 27.235249999999994,
+            "Q": {
+                "Magic": 271.2555,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1030.4464999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 231.25549999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": -23.081000000000017,
+            "Q": {
+                "Magic": 234.30675000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 993.4977499999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 194.30675000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 39.18399999999998,
+            "Q": {
+                "Magic": 271.2555,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1030.4464999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 231.25549999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 35.204499999999996,
+            "Q": {
+                "Magic": 271.2555,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1030.4464999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 231.25549999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": -9.122000000000014,
+            "Q": {
+                "Magic": 209.30675000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 968.4977499999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 169.30675000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "960342": {
+        "Kennen": {
+            "Attack": 31.11274999999999,
+            "Q": {
+                "Magic": 311.2555,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1042.079,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 231.25549999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": -25.49550000000002,
+            "Q": {
+                "Magic": 271.82625,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1002.6497499999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 191.82625000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 43.06149999999998,
+            "Q": {
+                "Magic": 311.2555,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1042.079,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 231.25549999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 39.081999999999994,
+            "Q": {
+                "Magic": 311.2555,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1042.079,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 231.25549999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": -20.244500000000016,
+            "Q": {
+                "Magic": 249.30675000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 980.1302499999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 169.30675000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "1020343": {
+        "Kennen": {
+            "Attack": 29.116250000000008,
+            "Q": {
+                "Magic": 327.6825,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1096.4850000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 237.6825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": -21.502499999999998,
+            "Q": {
+                "Magic": 289.82625,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1058.6287500000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 199.82625000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 41.97250000000001,
+            "Q": {
+                "Magic": 327.6825,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1096.4850000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 237.6825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 37.63000000000001,
+            "Q": {
+                "Magic": 327.6825,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1096.4850000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 237.6825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": -21.817499999999995,
+            "Q": {
+                "Magic": 264.82625,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1033.6287500000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 174.82625000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    },
+    "1062416": {
+        "Kennen": {
+            "Attack": 33.22475,
+            "Q": {
+                "Magic": 367.6825,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1108.8104999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 237.6825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "JarvanIV": {
+            "Attack": -17.394000000000005,
+            "Q": {
+                "Magic": 329.82625,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1070.95425,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 199.82625000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Brand": {
+            "Attack": 46.081,
+            "Q": {
+                "Magic": 367.6825,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1108.8104999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 237.6825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Vladimir": {
+            "Attack": 41.7385,
+            "Q": {
+                "Magic": 367.6825,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1108.8104999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 237.6825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        },
+        "Yone": {
+            "Attack": -17.709000000000003,
+            "Q": {
+                "Magic": 304.82625,
+                "Physical": 0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 1045.95425,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 174.82625000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            }
+        }
+    }
+}
