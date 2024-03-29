@@ -1,0 +1,2108 @@
+{
+    "0": {
+        "Seraphine": {
+            "Attack": 37.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 26.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 309.6,
+                "True": 0
+            },
+            "E": {
+                "Magic": 120.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 249.0,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 42.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 31.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 314.6,
+                "True": 0
+            },
+            "E": {
+                "Magic": 120.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 254.0,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 30.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 19.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 302.6,
+                "True": 0
+            },
+            "E": {
+                "Magic": 122.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 242.0,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 37.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 26.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 309.6,
+                "True": 0
+            },
+            "E": {
+                "Magic": 120.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 249.0,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 27.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 16.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 299.6,
+                "True": 0
+            },
+            "E": {
+                "Magic": 118.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 239.0,
+                "True": 0
+            }
+        }
+    },
+    "60006": {
+        "Seraphine": {
+            "Attack": 50.23,
+            "Q": {
+                "Magic": 0,
+                "Physical": -10.195,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 146.715,
+                "True": 0
+            },
+            "E": {
+                "Magic": 18.0825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 257.805,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 54.49249999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -5.932500000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 150.9775,
+                "True": 0
+            },
+            "E": {
+                "Magic": 18.0825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 262.0675,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 41.754999999999995,
+            "Q": {
+                "Magic": 0,
+                "Physical": -18.67,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 138.24,
+                "True": 0
+            },
+            "E": {
+                "Magic": 18.97625,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 249.32999999999998,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 49.1975,
+            "Q": {
+                "Magic": 0,
+                "Physical": -11.2275,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 145.6825,
+                "True": 0
+            },
+            "E": {
+                "Magic": 18.0825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 256.7725,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 40.23,
+            "Q": {
+                "Magic": 0,
+                "Physical": -20.195,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 136.715,
+                "True": 0
+            },
+            "E": {
+                "Magic": 14.97625,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 247.805,
+                "True": 0
+            }
+        }
+    },
+    "120023": {
+        "Seraphine": {
+            "Attack": 49.282,
+            "Q": {
+                "Magic": 0,
+                "Physical": -13.513000000000005,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 191.241,
+                "True": 0
+            },
+            "E": {
+                "Magic": 17.055500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 254.487,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 53.1495,
+            "Q": {
+                "Magic": 0,
+                "Physical": -9.645500000000002,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 195.10850000000002,
+                "True": 0
+            },
+            "E": {
+                "Magic": 17.055500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 258.3545,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 40.017,
+            "Q": {
+                "Magic": 0,
+                "Physical": -22.778,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 181.97600000000003,
+                "True": 0
+            },
+            "E": {
+                "Magic": 17.356749999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 245.222,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 47.6965,
+            "Q": {
+                "Magic": 0,
+                "Physical": -15.098500000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 189.65550000000002,
+                "True": 0
+            },
+            "E": {
+                "Magic": 17.055500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 252.9015,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 39.282,
+            "Q": {
+                "Magic": 0,
+                "Physical": -23.513000000000005,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 181.241,
+                "True": 0
+            },
+            "E": {
+                "Magic": 13.356749999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 244.487,
+                "True": 0
+            }
+        }
+    },
+    "180052": {
+        "Seraphine": {
+            "Attack": 68.292,
+            "Q": {
+                "Magic": 0,
+                "Physical": -8.978000000000002,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 259.746,
+                "True": 0
+            },
+            "E": {
+                "Magic": 15.982999999999997,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 271.022,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 71.747,
+            "Q": {
+                "Magic": 0,
+                "Physical": -5.522999999999996,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 263.201,
+                "True": 0
+            },
+            "E": {
+                "Magic": 15.982999999999997,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 274.477,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 58.202,
+            "Q": {
+                "Magic": 0,
+                "Physical": -19.067999999999998,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 249.656,
+                "True": 0
+            },
+            "E": {
+                "Magic": 15.665500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 260.932,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 66.12899999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -11.140999999999998,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 257.58299999999997,
+                "True": 0
+            },
+            "E": {
+                "Magic": 15.982999999999997,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 268.859,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 58.291999999999994,
+            "Q": {
+                "Magic": 0,
+                "Physical": -18.978,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 249.74599999999998,
+                "True": 0
+            },
+            "E": {
+                "Magic": 11.665500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 261.022,
+                "True": 0
+            }
+        }
+    },
+    "240076": {
+        "Seraphine": {
+            "Attack": 67.25999999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -12.590000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 259.23,
+                "True": 0
+            },
+            "E": {
+                "Magic": 14.865000000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 67.41,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 70.285,
+            "Q": {
+                "Magic": 0,
+                "Physical": -9.564999999999998,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 262.255,
+                "True": 0
+            },
+            "E": {
+                "Magic": 14.865000000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 70.435,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 56.309999999999995,
+            "Q": {
+                "Magic": 0,
+                "Physical": -23.54,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 248.28,
+                "True": 0
+            },
+            "E": {
+                "Magic": 13.902500000000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 56.46,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 64.49499999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -15.355000000000004,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 256.465,
+                "True": 0
+            },
+            "E": {
+                "Magic": 14.865000000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 64.645,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 57.25999999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -22.590000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 249.23,
+                "True": 0
+            },
+            "E": {
+                "Magic": 9.902500000000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 57.41,
+                "True": 0
+            }
+        }
+    },
+    "300130": {
+        "Seraphine": {
+            "Attack": 66.18599999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -16.349000000000004,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 303.69300000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": 13.701499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 63.650999999999996,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 68.7635,
+            "Q": {
+                "Magic": 0,
+                "Physical": -13.771500000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 306.2705,
+                "True": 0
+            },
+            "E": {
+                "Magic": 13.701499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 66.2285,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 54.340999999999994,
+            "Q": {
+                "Magic": 0,
+                "Physical": -28.194000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 291.848,
+                "True": 0
+            },
+            "E": {
+                "Magic": 12.067750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 51.806,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 62.7945,
+            "Q": {
+                "Magic": 0,
+                "Physical": -19.740499999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 300.30150000000003,
+                "True": 0
+            },
+            "E": {
+                "Magic": 13.701499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 60.2595,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 56.18599999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -26.349000000000004,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 293.69300000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": 8.067750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 53.650999999999996,
+                "True": 0
+            }
+        }
+    },
+    "360148": {
+        "Seraphine": {
+            "Attack": 95.07,
+            "Q": {
+                "Magic": 0,
+                "Physical": -8.255000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 339.135,
+                "True": 0
+            },
+            "E": {
+                "Magic": 37.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 89.745,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 97.18249999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -6.142499999999998,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 341.2475,
+                "True": 0
+            },
+            "E": {
+                "Magic": 37.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 91.8575,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 87.13099999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -16.194000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 331.19599999999997,
+                "True": 0
+            },
+            "E": {
+                "Magic": 12.067750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 81.806,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 95.58449999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -7.740499999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 339.6495,
+                "True": 0
+            },
+            "E": {
+                "Magic": 38.701499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 90.2595,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 88.97599999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": -14.349000000000004,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 333.041,
+                "True": 0
+            },
+            "E": {
+                "Magic": 33.067750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 83.651,
+                "True": 0
+            }
+        }
+    },
+    "420172": {
+        "Seraphine": {
+            "Attack": 123.91199999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 2.691999999999993,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 418.55600000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": 36.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 115.692,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 125.542,
+            "Q": {
+                "Magic": 0,
+                "Physical": 4.322000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 420.18600000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": 36.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 117.322,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 115.19,
+            "Q": {
+                "Magic": 0,
+                "Physical": -6.030000000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 409.83400000000006,
+                "True": 0
+            },
+            "E": {
+                "Magic": 10.161249999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 106.97,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 123.92249999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 2.7024999999999935,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 418.5665,
+                "True": 0
+            },
+            "E": {
+                "Magic": 37.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 115.70249999999999,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 113.91199999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -7.308000000000007,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 408.55600000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": 29.183,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 105.692,
+                "True": 0
+            }
+        }
+    },
+    "480179": {
+        "Seraphine": {
+            "Attack": 122.71199999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -1.5080000000000098,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 417.956,
+                "True": 0
+            },
+            "E": {
+                "Magic": 34.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 111.49199999999999,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 128.542,
+            "Q": {
+                "Magic": 0,
+                "Physical": 4.322000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 423.786,
+                "True": 0
+            },
+            "E": {
+                "Magic": 36.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 117.322,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 113.172,
+            "Q": {
+                "Magic": 0,
+                "Physical": -11.048000000000002,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 408.416,
+                "True": 0
+            },
+            "E": {
+                "Magic": 8.182999999999993,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 101.952,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 122.19399999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -2.0260000000000034,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 417.438,
+                "True": 0
+            },
+            "E": {
+                "Magic": 36.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 110.97399999999999,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 116.91199999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -7.308000000000007,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 412.156,
+                "True": 0
+            },
+            "E": {
+                "Magic": 29.183,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 105.692,
+                "True": 0
+            }
+        }
+    },
+    "540203": {
+        "Seraphine": {
+            "Attack": 153.81699999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 17.49199999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 452.6819999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 59.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 239.492,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 154.94699999999997,
+            "Q": {
+                "Magic": 0,
+                "Physical": 18.621999999999993,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 453.81199999999995,
+                "True": 0
+            },
+            "E": {
+                "Magic": 59.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 240.62199999999999,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 139.07699999999997,
+            "Q": {
+                "Magic": 0,
+                "Physical": 2.751999999999981,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 437.9419999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 31.132999999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 224.75199999999998,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 148.39899999999997,
+            "Q": {
+                "Magic": 0,
+                "Physical": 12.073999999999991,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 447.26399999999995,
+                "True": 0
+            },
+            "E": {
+                "Magic": 59.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 234.07399999999998,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 143.81699999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 7.49199999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 442.6819999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 52.132999999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 229.492,
+                "True": 0
+            }
+        }
+    },
+    "600234": {
+        "Seraphine": {
+            "Attack": 169.46999999999997,
+            "Q": {
+                "Magic": 0,
+                "Physical": 21.144999999999996,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 472.33500000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": 58.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 255.14499999999998,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 170.08249999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 21.7575,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 472.94750000000005,
+                "True": 0
+            },
+            "E": {
+                "Magic": 58.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 255.7575,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 153.695,
+            "Q": {
+                "Magic": 0,
+                "Physical": 5.3700000000000045,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 456.56000000000006,
+                "True": 0
+            },
+            "E": {
+                "Magic": 29.011250000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 239.37,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 163.3275,
+            "Q": {
+                "Magic": 0,
+                "Physical": 15.002499999999998,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 466.19250000000005,
+                "True": 0
+            },
+            "E": {
+                "Magic": 58.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 249.0025,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 159.46999999999997,
+            "Q": {
+                "Magic": 0,
+                "Physical": 11.144999999999996,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 462.33500000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": 50.011250000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 245.14499999999998,
+                "True": 0
+            }
+        }
+    },
+    "660245": {
+        "Seraphine": {
+            "Attack": 193.18599999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 26.650999999999996,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 501.6929999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 82.2015,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 275.651,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 193.2635,
+            "Q": {
+                "Magic": 0,
+                "Physical": 26.728499999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 501.7704999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 82.2015,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 275.7285,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 181.905,
+            "Q": {
+                "Magic": 0,
+                "Physical": 15.370000000000005,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 490.4119999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 54.011250000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 264.37,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 191.5375,
+            "Q": {
+                "Magic": 0,
+                "Physical": 25.002499999999998,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 500.0444999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 83.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 274.0025,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 187.68,
+            "Q": {
+                "Magic": 0,
+                "Physical": 21.144999999999996,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 496.1869999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 75.01125,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 270.145,
+                "True": 0
+            }
+        }
+    },
+    "720274": {
+        "Seraphine": {
+            "Attack": 198.545,
+            "Q": {
+                "Magic": 0,
+                "Physical": 26.00999999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 509.0519999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 80.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 281.01,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 198.07,
+            "Q": {
+                "Magic": 0,
+                "Physical": 25.534999999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 508.5769999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 80.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 280.53499999999997,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 186.341,
+            "Q": {
+                "Magic": 0,
+                "Physical": 13.805999999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 496.8479999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 51.817750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 268.806,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 196.2945,
+            "Q": {
+                "Magic": 0,
+                "Physical": 23.759500000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 506.8014999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 82.2015,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 278.7595,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 188.545,
+            "Q": {
+                "Magic": 0,
+                "Physical": 16.00999999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 499.0519999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 70.5525,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 271.01,
+                "True": 0
+            }
+        }
+    },
+    "780277": {
+        "Seraphine": {
+            "Attack": 200.49199999999996,
+            "Q": {
+                "Magic": 0,
+                "Physical": 30.221999999999994,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 512.346,
+                "True": 0
+            },
+            "E": {
+                "Magic": 104.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 276.222,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 204.80499999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 34.535,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 516.659,
+                "True": 0
+            },
+            "E": {
+                "Magic": 105.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 280.53499999999997,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 193.07599999999996,
+            "Q": {
+                "Magic": 0,
+                "Physical": 22.805999999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 504.93,
+                "True": 0
+            },
+            "E": {
+                "Magic": 76.81775,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 268.806,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 197.61499999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 27.345,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 509.46900000000005,
+                "True": 0
+            },
+            "E": {
+                "Magic": 105.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 273.345,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 195.27999999999997,
+            "Q": {
+                "Magic": 0,
+                "Physical": 25.00999999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 507.134,
+                "True": 0
+            },
+            "E": {
+                "Magic": 95.5525,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 271.01,
+                "True": 0
+            }
+        }
+    },
+    "840291": {
+        "Seraphine": {
+            "Attack": 240.49199999999996,
+            "Q": {
+                "Magic": 0,
+                "Physical": 46.221999999999994,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 560.346,
+                "True": 0
+            },
+            "E": {
+                "Magic": 104.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 316.222,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 244.80499999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 50.535,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 564.659,
+                "True": 0
+            },
+            "E": {
+                "Magic": 105.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 320.53499999999997,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 227.32999999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 33.05999999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 547.184,
+                "True": 0
+            },
+            "E": {
+                "Magic": 74.5525,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 303.06,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 232.02899999999997,
+            "Q": {
+                "Magic": 0,
+                "Physical": 37.758999999999986,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 551.883,
+                "True": 0
+            },
+            "E": {
+                "Magic": 104.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 307.759,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 235.27999999999997,
+            "Q": {
+                "Magic": 0,
+                "Physical": 41.00999999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 555.134,
+                "True": 0
+            },
+            "E": {
+                "Magic": 95.5525,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 311.01,
+                "True": 0
+            }
+        }
+    },
+    "900313": {
+        "Seraphine": {
+            "Attack": 199.082,
+            "Q": {
+                "Magic": 0,
+                "Physical": 34.28699999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 511.641,
+                "True": 0
+            },
+            "E": {
+                "Magic": 102.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 271.287,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 202.972,
+            "Q": {
+                "Magic": 0,
+                "Physical": 38.17699999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 515.5310000000001,
+                "True": 0
+            },
+            "E": {
+                "Magic": 104.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 275.177,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 184.92700000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": 20.13199999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 497.48600000000005,
+                "True": 0
+            },
+            "E": {
+                "Magic": 72.21549999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 257.132,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 189.7965,
+            "Q": {
+                "Magic": 0,
+                "Physical": 25.001499999999993,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 502.3555,
+                "True": 0
+            },
+            "E": {
+                "Magic": 102.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 262.00149999999996,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 194.017,
+            "Q": {
+                "Magic": 0,
+                "Physical": 29.221999999999994,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 506.576,
+                "True": 0
+            },
+            "E": {
+                "Magic": 93.21549999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 266.222,
+                "True": 0
+            }
+        }
+    },
+    "960337": {
+        "Seraphine": {
+            "Attack": 197.63,
+            "Q": {
+                "Magic": 0,
+                "Physical": 29.205,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 510.915,
+                "True": 0
+            },
+            "E": {
+                "Magic": 101.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 366.205,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 201.0795,
+            "Q": {
+                "Magic": 0,
+                "Physical": 32.6545,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 514.3645,
+                "True": 0
+            },
+            "E": {
+                "Magic": 102.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 369.6545,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 188.55700000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": 20.13199999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 501.84200000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": 72.21549999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 357.132,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 193.4265,
+            "Q": {
+                "Magic": 0,
+                "Physical": 25.001499999999993,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 506.7115,
+                "True": 0
+            },
+            "E": {
+                "Magic": 102.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 362.00149999999996,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 192.712,
+            "Q": {
+                "Magic": 0,
+                "Physical": 24.286999999999992,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 505.997,
+                "True": 0
+            },
+            "E": {
+                "Magic": 90.80675000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 361.287,
+                "True": 0
+            }
+        }
+    },
+    "987689": {
+        "Seraphine": {
+            "Attack": 201.36499999999995,
+            "Q": {
+                "Magic": 0,
+                "Physical": 38.205,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 515.397,
+                "True": 0
+            },
+            "E": {
+                "Magic": 101.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 366.205,
+                "True": 0
+            }
+        },
+        "Zoe": {
+            "Attack": 204.81449999999995,
+            "Q": {
+                "Magic": 0,
+                "Physical": 41.6545,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 518.8465,
+                "True": 0
+            },
+            "E": {
+                "Magic": 102.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 369.6545,
+                "True": 0
+            }
+        },
+        "Sett": {
+            "Attack": 186.18199999999996,
+            "Q": {
+                "Magic": 0,
+                "Physical": 23.022000000000006,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 500.214,
+                "True": 0
+            },
+            "E": {
+                "Magic": 69.80675000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 351.022,
+                "True": 0
+            }
+        },
+        "Lulu": {
+            "Attack": 191.23249999999996,
+            "Q": {
+                "Magic": 0,
+                "Physical": 28.07249999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 505.2645,
+                "True": 0
+            },
+            "E": {
+                "Magic": 101.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 356.0725,
+                "True": 0
+            }
+        },
+        "Khazix": {
+            "Attack": 196.44699999999995,
+            "Q": {
+                "Magic": 0,
+                "Physical": 33.28699999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 510.479,
+                "True": 0
+            },
+            "E": {
+                "Magic": 90.80675000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 361.287,
+                "True": 0
+            }
+        }
+    }
+}

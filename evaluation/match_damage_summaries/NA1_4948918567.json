@@ -1,0 +1,2459 @@
+{
+    "0": {
+        "Tristana": {
+            "Attack": 38.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 630.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 232.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 545.0,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 39.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 631.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 230.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 546.0,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 42.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 634.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 230.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 549.0,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 34.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 626.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 228.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 541.0,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 36.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 628.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 231.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 543.0,
+                "True": 0
+            }
+        }
+    },
+    "60011": {
+        "Tristana": {
+            "Attack": 57.2625,
+            "Q": {
+                "Magic": 0,
+                "Physical": 271.3625,
+                "True": 0
+            },
+            "W": {
+                "Magic": 30.0825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 568.3625,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 57.9675,
+            "Q": {
+                "Magic": 0,
+                "Physical": 272.0675,
+                "True": 0
+            },
+            "W": {
+                "Magic": 28.0825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 569.0675,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 60.9675,
+            "Q": {
+                "Magic": 0,
+                "Physical": 275.0675,
+                "True": 0
+            },
+            "W": {
+                "Magic": 28.0825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 572.0675,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 16.861250000000013,
+            "Q": {
+                "Magic": 0,
+                "Physical": 230.96125,
+                "True": 0
+            },
+            "W": {
+                "Magic": 24.97625,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 527.9612500000001,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 54.9675,
+            "Q": {
+                "Magic": 0,
+                "Physical": 269.0675,
+                "True": 0
+            },
+            "W": {
+                "Magic": 27.97625,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 566.0675,
+                "True": 0
+            }
+        }
+    },
+    "120018": {
+        "Tristana": {
+            "Attack": 60.1675,
+            "Q": {
+                "Magic": 0,
+                "Physical": 491.8075,
+                "True": 0
+            },
+            "W": {
+                "Magic": 29.0555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 564.8075,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 60.7145,
+            "Q": {
+                "Magic": 0,
+                "Physical": 492.35450000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 27.055500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 565.3545,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 63.7145,
+            "Q": {
+                "Magic": 0,
+                "Physical": 495.35450000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 27.055500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 568.3545,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 19.015749999999997,
+            "Q": {
+                "Magic": 0,
+                "Physical": 450.65575,
+                "True": 0
+            },
+            "W": {
+                "Magic": 23.356749999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 523.65575,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 57.7145,
+            "Q": {
+                "Magic": 0,
+                "Physical": 489.35450000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 26.356749999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 562.3545,
+                "True": 0
+            }
+        }
+    },
+    "180028": {
+        "Tristana": {
+            "Attack": 56.455,
+            "Q": {
+                "Magic": 0,
+                "Physical": 488.095,
+                "True": 0
+            },
+            "W": {
+                "Magic": 27.982999999999997,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 561.095,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 56.837,
+            "Q": {
+                "Magic": 0,
+                "Physical": 488.477,
+                "True": 0
+            },
+            "W": {
+                "Magic": 25.982999999999997,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 561.477,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 59.837,
+            "Q": {
+                "Magic": 0,
+                "Physical": 491.477,
+                "True": 0
+            },
+            "W": {
+                "Magic": 25.982999999999997,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 564.477,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": -10.480499999999992,
+            "Q": {
+                "Magic": 0,
+                "Physical": 421.1595,
+                "True": 0
+            },
+            "W": {
+                "Magic": 21.6655,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 494.1595,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 49.795,
+            "Q": {
+                "Magic": 0,
+                "Physical": 481.435,
+                "True": 0
+            },
+            "W": {
+                "Magic": 22.902500000000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 554.435,
+                "True": 0
+            }
+        }
+    },
+    "240055": {
+        "Tristana": {
+            "Attack": 59.60499999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 596.225,
+                "True": 0
+            },
+            "W": {
+                "Magic": 26.865000000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 257.225,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 59.815,
+            "Q": {
+                "Magic": 0,
+                "Physical": 596.435,
+                "True": 0
+            },
+            "W": {
+                "Magic": 24.865000000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 257.435,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 62.815,
+            "Q": {
+                "Magic": 0,
+                "Physical": 599.435,
+                "True": 0
+            },
+            "W": {
+                "Magic": 24.865000000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 260.435,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": -8.147500000000008,
+            "Q": {
+                "Magic": 0,
+                "Physical": 528.4725,
+                "True": 0
+            },
+            "W": {
+                "Magic": -30.097499999999997,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 189.4725,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 52.60849999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 589.2284999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 21.067750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 250.2285,
+                "True": 0
+            }
+        }
+    },
+    "300092": {
+        "Tristana": {
+            "Attack": 51.1125,
+            "Q": {
+                "Magic": 0,
+                "Physical": 520.0125,
+                "True": 0
+            },
+            "W": {
+                "Magic": 24.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 235.0125,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 55.32849999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 524.2284999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 23.701499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 239.2285,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 58.32849999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 527.2284999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 23.701499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 242.2285,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": -13.305250000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 455.59475,
+                "True": 0
+            },
+            "W": {
+                "Magic": -31.932249999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 170.59475,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 47.957499999999996,
+            "Q": {
+                "Magic": 0,
+                "Physical": 516.8575,
+                "True": 0
+            },
+            "W": {
+                "Magic": 19.161250000000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 231.85750000000002,
+                "True": 0
+            }
+        }
+    },
+    "360110": {
+        "Tristana": {
+            "Attack": 61.769999999999996,
+            "Q": {
+                "Magic": 0,
+                "Physical": 578.67,
+                "True": 0
+            },
+            "W": {
+                "Magic": 23.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 253.17000000000002,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 65.9575,
+            "Q": {
+                "Magic": 0,
+                "Physical": 582.8575,
+                "True": 0
+            },
+            "W": {
+                "Magic": 22.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 257.3575,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 68.9575,
+            "Q": {
+                "Magic": 0,
+                "Physical": 585.8575,
+                "True": 0
+            },
+            "W": {
+                "Magic": 22.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 260.3575,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 1.694749999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 518.59475,
+                "True": 0
+            },
+            "W": {
+                "Magic": -31.932249999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 193.09475,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 58.422,
+            "Q": {
+                "Magic": 0,
+                "Physical": 575.322,
+                "True": 0
+            },
+            "W": {
+                "Magic": 17.183,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 249.822,
+                "True": 0
+            }
+        }
+    },
+    "420121": {
+        "Tristana": {
+            "Attack": 105.13,
+            "Q": {
+                "Magic": 0,
+                "Physical": 875.17,
+                "True": 0
+            },
+            "W": {
+                "Magic": 21.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 308.66999999999996,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 113.81750000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 883.8575,
+                "True": 0
+            },
+            "W": {
+                "Magic": 22.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 317.3575,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 112.28200000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 882.322,
+                "True": 0
+            },
+            "W": {
+                "Magic": 21.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 315.822,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 29.227000000000004,
+            "Q": {
+                "Magic": 0,
+                "Physical": 799.267,
+                "True": 0
+            },
+            "W": {
+                "Magic": -35.81700000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 232.767,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 101.582,
+            "Q": {
+                "Magic": 0,
+                "Physical": 871.622,
+                "True": 0
+            },
+            "W": {
+                "Magic": 15.132999999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 305.12199999999996,
+                "True": 0
+            }
+        }
+    },
+    "480144": {
+        "Tristana": {
+            "Attack": 104.61249999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 870.5125,
+                "True": 0
+            },
+            "W": {
+                "Magic": -4.407499999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 454.0125,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 113.422,
+            "Q": {
+                "Magic": 0,
+                "Physical": 879.322,
+                "True": 0
+            },
+            "W": {
+                "Magic": 21.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 462.822,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 111.72199999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 877.622,
+                "True": 0
+            },
+            "W": {
+                "Magic": 19.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 461.122,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": -6.63300000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 759.267,
+                "True": 0
+            },
+            "W": {
+                "Magic": -35.81700000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 342.767,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 100.85749999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 866.7574999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 13.011250000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 450.2575,
+                "True": 0
+            }
+        }
+    },
+    "540157": {
+        "Tristana": {
+            "Attack": 108.89249999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 870.5125,
+                "True": 0
+            },
+            "W": {
+                "Magic": -4.407499999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 454.0125,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 113.00199999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 874.622,
+                "True": 0
+            },
+            "W": {
+                "Magic": 19.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 458.12199999999996,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 116.00199999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 877.622,
+                "True": 0
+            },
+            "W": {
+                "Magic": 19.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 461.122,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": -7.802999999999997,
+            "Q": {
+                "Magic": 0,
+                "Physical": 753.817,
+                "True": 0
+            },
+            "W": {
+                "Magic": -37.867000000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 337.317,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 105.13749999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 866.7574999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 13.011250000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 450.2575,
+                "True": 0
+            }
+        }
+    },
+    "600162": {
+        "Tristana": {
+            "Attack": 134.0775,
+            "Q": {
+                "Magic": 0,
+                "Physical": 990.6975,
+                "True": 0
+            },
+            "W": {
+                "Magic": -5.798500000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 491.6975,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 143.00199999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 999.622,
+                "True": 0
+            },
+            "W": {
+                "Magic": 19.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 500.62199999999996,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 141.1375,
+            "Q": {
+                "Magic": 0,
+                "Physical": 997.7574999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 18.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 498.7575,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 16.556249999999977,
+            "Q": {
+                "Magic": 0,
+                "Physical": 873.17625,
+                "True": 0
+            },
+            "W": {
+                "Magic": -39.988749999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 374.17625,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 130.1085,
+            "Q": {
+                "Magic": 0,
+                "Physical": 986.7284999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 10.817750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 487.7285,
+                "True": 0
+            }
+        }
+    },
+    "660176": {
+        "Tristana": {
+            "Attack": 158.4975,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1086.6975,
+                "True": 0
+            },
+            "W": {
+                "Magic": -5.798500000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 521.6975,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 157.5285,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1085.7285,
+                "True": 0
+            },
+            "W": {
+                "Magic": 17.201499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 520.7284999999999,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 160.5285,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1088.7285,
+                "True": 0
+            },
+            "W": {
+                "Magic": 17.201499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 523.7284999999999,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 25.144750000000016,
+            "Q": {
+                "Magic": 0,
+                "Physical": 953.34475,
+                "True": 0
+            },
+            "W": {
+                "Magic": -42.182249999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 388.34475,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 149.335,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1077.535,
+                "True": 0
+            },
+            "W": {
+                "Magic": 8.552499999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 512.535,
+                "True": 0
+            }
+        }
+    },
+    "720205": {
+        "Tristana": {
+            "Attack": 181.085,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1142.725,
+                "True": 0
+            },
+            "W": {
+                "Magic": 42.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 544.725,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 185.0885,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1146.7285,
+                "True": 0
+            },
+            "W": {
+                "Magic": 67.2015,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 548.7284999999999,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 182.895,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1144.535,
+                "True": 0
+            },
+            "W": {
+                "Magic": 65.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 546.535,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 46.682500000000005,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1008.3225,
+                "True": 0
+            },
+            "W": {
+                "Magic": 5.552499999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 410.3225,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 171.537,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1133.177,
+                "True": 0
+            },
+            "W": {
+                "Magic": 56.2155,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 535.177,
+                "True": 0
+            }
+        }
+    },
+    "780214": {
+        "Tristana": {
+            "Attack": 190.955,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1209.595,
+                "True": 0
+            },
+            "W": {
+                "Magic": 41.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 562.095,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 194.895,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1213.535,
+                "True": 0
+            },
+            "W": {
+                "Magic": 65.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 566.035,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 197.895,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1216.535,
+                "True": 0
+            },
+            "W": {
+                "Magic": 65.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 569.035,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 55.46949999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1074.1095,
+                "True": 0
+            },
+            "W": {
+                "Magic": -21.78450000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 426.60949999999997,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 186.537,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1205.177,
+                "True": 0
+            },
+            "W": {
+                "Magic": 56.2155,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 557.677,
+                "True": 0
+            }
+        }
+    },
+    "840220": {
+        "Tristana": {
+            "Attack": 195.655,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1209.595,
+                "True": 0
+            },
+            "W": {
+                "Magic": 91.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 562.095,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 194.237,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1208.177,
+                "True": 0
+            },
+            "W": {
+                "Magic": 114.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 560.677,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 197.237,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1211.177,
+                "True": 0
+            },
+            "W": {
+                "Magic": 114.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 563.677,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 53.765750000000025,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1067.70575,
+                "True": 0
+            },
+            "W": {
+                "Magic": 25.806750000000022,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 420.20575,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 185.7145,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1199.6545,
+                "True": 0
+            },
+            "W": {
+                "Magic": 103.80675000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 552.1545,
+                "True": 0
+            }
+        }
+    },
+    "900235": {
+        "Tristana": {
+            "Attack": 195.2075,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1204.3075,
+                "True": 0
+            },
+            "W": {
+                "Magic": 89.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 706.8075,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 199.077,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1208.177,
+                "True": 0
+            },
+            "W": {
+                "Magic": 114.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 710.677,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 196.55450000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1205.6545,
+                "True": 0
+            },
+            "W": {
+                "Magic": 112.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 708.1545,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 58.60575000000003,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1067.70575,
+                "True": 0
+            },
+            "W": {
+                "Magic": -24.193249999999978,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 570.2057500000001,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 190.55450000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1199.6545,
+                "True": 0
+            },
+            "W": {
+                "Magic": 103.80675000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 702.1545,
+                "True": 0
+            }
+        }
+    },
+    "960244": {
+        "Tristana": {
+            "Attack": 230.20749999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1372.3075,
+                "True": 0
+            },
+            "W": {
+                "Magic": 39.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 759.3075,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 228.55449999999996,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1370.6545,
+                "True": 0
+            },
+            "W": {
+                "Magic": 112.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 757.6545,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 231.55449999999996,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1373.6545,
+                "True": 0
+            },
+            "W": {
+                "Magic": 112.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 760.6545,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 93.60575,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1235.70575,
+                "True": 0
+            },
+            "W": {
+                "Magic": -24.193249999999978,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 622.7057500000001,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 219.86749999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1361.9675,
+                "True": 0
+            },
+            "W": {
+                "Magic": 101.32625,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 748.9675,
+                "True": 0
+            }
+        }
+    },
+    "1020272": {
+        "Tristana": {
+            "Attack": 224.14,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1361.26,
+                "True": 0
+            },
+            "W": {
+                "Magic": 86.564,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 748.26,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 227.8475,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1364.9675,
+                "True": 0
+            },
+            "W": {
+                "Magic": 161.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 751.9675,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 230.8475,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1367.9675,
+                "True": 0
+            },
+            "W": {
+                "Magic": 161.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 754.9675,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 85.20599999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1222.326,
+                "True": 0
+            },
+            "W": {
+                "Magic": 95.774,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 609.326,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 218.99599999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1356.116,
+                "True": 0
+            },
+            "W": {
+                "Magic": 113.774,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 743.116,
+                "True": 0
+            }
+        }
+    },
+    "1080276": {
+        "Tristana": {
+            "Attack": 199.26,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1331.26,
+                "True": 0
+            },
+            "W": {
+                "Magic": 136.564,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 718.26,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 227.11599999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1359.116,
+                "True": 0
+            },
+            "W": {
+                "Magic": 209.564,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 746.116,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 235.9675,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1367.9675,
+                "True": 0
+            },
+            "W": {
+                "Magic": 211.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 754.9675,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 50.32600000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1182.326,
+                "True": 0
+            },
+            "W": {
+                "Magic": 145.774,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 569.326,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 218.1,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1350.1,
+                "True": 0
+            },
+            "W": {
+                "Magic": 161.15,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 737.1,
+                "True": 0
+            }
+        }
+    },
+    "1140305": {
+        "Tristana": {
+            "Attack": 193.5,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1325.5,
+                "True": 0
+            },
+            "W": {
+                "Magic": 134.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 712.5,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 221.1,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1353.1,
+                "True": 0
+            },
+            "W": {
+                "Magic": 207.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 740.1,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 224.1,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1356.1,
+                "True": 0
+            },
+            "W": {
+                "Magic": 207.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 743.1,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 43.35000000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1175.35,
+                "True": 0
+            },
+            "W": {
+                "Magic": 143.15,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 562.35,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 218.1,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1350.1,
+                "True": 0
+            },
+            "W": {
+                "Magic": 161.15,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 737.1,
+                "True": 0
+            }
+        }
+    },
+    "1140639": {
+        "Tristana": {
+            "Attack": 218.5,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1217.5,
+                "True": 0
+            },
+            "W": {
+                "Magic": 174.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 720.0,
+                "True": 0
+            }
+        },
+        "Kindred": {
+            "Attack": 216.1,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1215.1,
+                "True": 0
+            },
+            "W": {
+                "Magic": 172.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 717.6,
+                "True": 0
+            }
+        },
+        "Akshan": {
+            "Attack": 219.1,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1218.1,
+                "True": 0
+            },
+            "W": {
+                "Magic": 172.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 720.6,
+                "True": 0
+            }
+        },
+        "Sejuani": {
+            "Attack": 198.35,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1197.35,
+                "True": 0
+            },
+            "W": {
+                "Magic": 158.15,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 699.85,
+                "True": 0
+            }
+        },
+        "Zed": {
+            "Attack": 213.1,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1212.1,
+                "True": 0
+            },
+            "W": {
+                "Magic": 161.15,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 714.6,
+                "True": 0
+            }
+        }
+    }
+}

@@ -1,0 +1,2459 @@
+{
+    "0": {
+        "Azir": {
+            "Attack": 41.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 30.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 313.6,
+                "True": 0
+            },
+            "E": {
+                "Magic": 120.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 253.0,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 29.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 18.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 301.6,
+                "True": 0
+            },
+            "E": {
+                "Magic": 118.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 241.0,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 28.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 17.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 300.6,
+                "True": 0
+            },
+            "E": {
+                "Magic": 118.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 240.0,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 35.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 24.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 307.6,
+                "True": 0
+            },
+            "E": {
+                "Magic": 118.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 247.0,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 44.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 33.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 316.6,
+                "True": 0
+            },
+            "E": {
+                "Magic": 120.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 256.0,
+                "True": 0
+            }
+        }
+    },
+    "60026": {
+        "Azir": {
+            "Attack": 53.05,
+            "Q": {
+                "Magic": 0,
+                "Physical": -7.375,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 149.535,
+                "True": 0
+            },
+            "E": {
+                "Magic": 18.0825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 260.625,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 41.49249999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -18.932500000000005,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 137.9775,
+                "True": 0
+            },
+            "E": {
+                "Magic": 14.97625,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 249.0675,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 39.754999999999995,
+            "Q": {
+                "Magic": 0,
+                "Physical": -20.67,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 136.24,
+                "True": 0
+            },
+            "E": {
+                "Magic": 14.97625,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 247.32999999999998,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 47.49249999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -12.932500000000005,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 143.9775,
+                "True": 0
+            },
+            "E": {
+                "Magic": 14.97625,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 255.0675,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 56.49249999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -3.932500000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 152.9775,
+                "True": 0
+            },
+            "E": {
+                "Magic": 18.0825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 264.0675,
+                "True": 0
+            }
+        }
+    },
+    "120049": {
+        "Azir": {
+            "Attack": 51.47,
+            "Q": {
+                "Magic": 0,
+                "Physical": -11.325000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 193.42900000000003,
+                "True": 0
+            },
+            "E": {
+                "Magic": 17.055500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 256.675,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 40.1495,
+            "Q": {
+                "Magic": 0,
+                "Physical": -22.6455,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 182.10850000000002,
+                "True": 0
+            },
+            "E": {
+                "Magic": 13.356749999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 245.3545,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 38.017,
+            "Q": {
+                "Magic": 0,
+                "Physical": -24.778,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 179.97600000000003,
+                "True": 0
+            },
+            "E": {
+                "Magic": 13.356749999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 243.222,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 46.1495,
+            "Q": {
+                "Magic": 0,
+                "Physical": -16.6455,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 188.10850000000002,
+                "True": 0
+            },
+            "E": {
+                "Magic": 13.356749999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 251.3545,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 55.1495,
+            "Q": {
+                "Magic": 0,
+                "Physical": -7.645500000000002,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 197.10850000000002,
+                "True": 0
+            },
+            "E": {
+                "Magic": 17.055500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 260.3545,
+                "True": 0
+            }
+        }
+    },
+    "180093": {
+        "Azir": {
+            "Attack": 69.82,
+            "Q": {
+                "Magic": 0,
+                "Physical": -7.450000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 261.274,
+                "True": 0
+            },
+            "E": {
+                "Magic": 15.982999999999997,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 272.55,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 43.747,
+            "Q": {
+                "Magic": 0,
+                "Physical": -33.522999999999996,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 235.201,
+                "True": 0
+            },
+            "E": {
+                "Magic": 11.665500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 246.477,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 56.202,
+            "Q": {
+                "Magic": 0,
+                "Physical": -21.067999999999998,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 247.656,
+                "True": 0
+            },
+            "E": {
+                "Magic": 11.665500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 258.932,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 64.747,
+            "Q": {
+                "Magic": 0,
+                "Physical": -12.522999999999996,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 256.201,
+                "True": 0
+            },
+            "E": {
+                "Magic": 11.665500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 267.477,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 73.747,
+            "Q": {
+                "Magic": 0,
+                "Physical": -3.522999999999996,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 265.201,
+                "True": 0
+            },
+            "E": {
+                "Magic": 15.982999999999997,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 276.477,
+                "True": 0
+            }
+        }
+    },
+    "240113": {
+        "Azir": {
+            "Attack": 68.1,
+            "Q": {
+                "Magic": 0,
+                "Physical": -11.75,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 260.07,
+                "True": 0
+            },
+            "E": {
+                "Magic": 14.865000000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 68.25,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 42.285,
+            "Q": {
+                "Magic": 0,
+                "Physical": -37.565,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 234.255,
+                "True": 0
+            },
+            "E": {
+                "Magic": 9.902500000000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 42.435,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 54.309999999999995,
+            "Q": {
+                "Magic": 0,
+                "Physical": -25.54,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 246.28,
+                "True": 0
+            },
+            "E": {
+                "Magic": 9.902500000000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 54.46,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 63.285,
+            "Q": {
+                "Magic": 0,
+                "Physical": -16.564999999999998,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 255.255,
+                "True": 0
+            },
+            "E": {
+                "Magic": 9.902500000000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 63.435,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 72.285,
+            "Q": {
+                "Magic": 0,
+                "Physical": -7.564999999999998,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 264.255,
+                "True": 0
+            },
+            "E": {
+                "Magic": 14.865000000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 72.435,
+                "True": 0
+            }
+        }
+    },
+    "300128": {
+        "Azir": {
+            "Attack": 66.31,
+            "Q": {
+                "Magic": 0,
+                "Physical": -16.225,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 303.817,
+                "True": 0
+            },
+            "E": {
+                "Magic": 13.701499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 63.775,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 40.76349999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -41.7715,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 278.2705,
+                "True": 0
+            },
+            "E": {
+                "Magic": 8.067750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 38.2285,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 52.340999999999994,
+            "Q": {
+                "Magic": 0,
+                "Physical": -30.194000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 289.848,
+                "True": 0
+            },
+            "E": {
+                "Magic": 8.067750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 49.806,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 65.97,
+            "Q": {
+                "Magic": 0,
+                "Physical": -16.564999999999998,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 303.47700000000003,
+                "True": 0
+            },
+            "E": {
+                "Magic": 9.902500000000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 63.435,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 70.7635,
+            "Q": {
+                "Magic": 0,
+                "Physical": -11.771500000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 308.2705,
+                "True": 0
+            },
+            "E": {
+                "Magic": 13.701499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 68.2285,
+                "True": 0
+            }
+        }
+    },
+    "360147": {
+        "Azir": {
+            "Attack": 71.66,
+            "Q": {
+                "Magic": 0,
+                "Physical": -16.875,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 311.16700000000003,
+                "True": 0
+            },
+            "E": {
+                "Magic": 12.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 69.125,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 46.3925,
+            "Q": {
+                "Magic": 0,
+                "Physical": -42.1425,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 285.89950000000005,
+                "True": 0
+            },
+            "E": {
+                "Magic": 6.161250000000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 43.8575,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 62.340999999999994,
+            "Q": {
+                "Magic": 0,
+                "Physical": -26.194000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 301.848,
+                "True": 0
+            },
+            "E": {
+                "Magic": 8.067750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 59.806,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 71.7635,
+            "Q": {
+                "Magic": 0,
+                "Physical": -16.771500000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 311.2705,
+                "True": 0
+            },
+            "E": {
+                "Magic": 8.067750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 69.2285,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 76.3925,
+            "Q": {
+                "Magic": 0,
+                "Physical": -12.142499999999998,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 315.89950000000005,
+                "True": 0
+            },
+            "E": {
+                "Magic": 12.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 73.8575,
+                "True": 0
+            }
+        }
+    },
+    "420163": {
+        "Azir": {
+            "Attack": 69.625,
+            "Q": {
+                "Magic": 0,
+                "Physical": -12.700000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 309.69,
+                "True": 0
+            },
+            "E": {
+                "Magic": 11.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 64.3,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 9.647000000000006,
+            "Q": {
+                "Magic": 0,
+                "Physical": -72.678,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 249.712,
+                "True": 0
+            },
+            "E": {
+                "Magic": -20.817000000000007,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 4.322000000000003,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 60.295,
+            "Q": {
+                "Magic": 0,
+                "Physical": -22.03,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 300.36,
+                "True": 0
+            },
+            "E": {
+                "Magic": 6.161250000000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 54.97,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 70.1825,
+            "Q": {
+                "Magic": 0,
+                "Physical": -12.142499999999998,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 310.2475,
+                "True": 0
+            },
+            "E": {
+                "Magic": 6.161250000000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 64.8575,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 74.647,
+            "Q": {
+                "Magic": 0,
+                "Physical": -7.677999999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 314.712,
+                "True": 0
+            },
+            "E": {
+                "Magic": 11.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 69.322,
+                "True": 0
+            }
+        }
+    },
+    "480193": {
+        "Azir": {
+            "Attack": 57.519999999999996,
+            "Q": {
+                "Magic": 0,
+                "Physical": -39.7,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 347.16400000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": 11.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 49.3,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 32.542,
+            "Q": {
+                "Magic": 0,
+                "Physical": -64.678,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 322.18600000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": -45.81700000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 24.322000000000003,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 78.172,
+            "Q": {
+                "Magic": 0,
+                "Physical": -19.048000000000002,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 367.81600000000003,
+                "True": 0
+            },
+            "E": {
+                "Magic": 4.183,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 69.952,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 88.542,
+            "Q": {
+                "Magic": 0,
+                "Physical": -8.677999999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 378.18600000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": -20.817000000000007,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 80.322,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 92.84199999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": -4.378000000000007,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 382.48600000000005,
+                "True": 0
+            },
+            "E": {
+                "Magic": 9.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 84.62199999999999,
+                "True": 0
+            }
+        }
+    },
+    "540207": {
+        "Azir": {
+            "Attack": 55.519999999999996,
+            "Q": {
+                "Magic": 0,
+                "Physical": -44.7,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 345.764,
+                "True": 0
+            },
+            "E": {
+                "Magic": 34.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 44.3,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 30.841999999999985,
+            "Q": {
+                "Magic": 0,
+                "Physical": -69.37800000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 321.086,
+                "True": 0
+            },
+            "E": {
+                "Magic": -22.867000000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 19.621999999999986,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 75.97199999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": -24.24800000000002,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 366.216,
+                "True": 0
+            },
+            "E": {
+                "Magic": 27.132999999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 64.75199999999998,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 86.84199999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": -13.378000000000014,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 377.086,
+                "True": 0
+            },
+            "E": {
+                "Magic": 2.1329999999999956,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 75.62199999999999,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 95.84199999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": -4.378000000000007,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 386.086,
+                "True": 0
+            },
+            "E": {
+                "Magic": 34.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 84.62199999999999,
+                "True": 0
+            }
+        }
+    },
+    "600226": {
+        "Azir": {
+            "Attack": 78.62499999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -54.7,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 379.48999999999995,
+                "True": 0
+            },
+            "E": {
+                "Magic": 34.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 164.3,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 79.08249999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": -54.24250000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 379.94749999999993,
+                "True": 0
+            },
+            "E": {
+                "Magic": -24.988749999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 164.7575,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 123.695,
+            "Q": {
+                "Magic": 0,
+                "Physical": -9.629999999999995,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 424.55999999999995,
+                "True": 0
+            },
+            "E": {
+                "Magic": 25.011250000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 209.37,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 139.94699999999997,
+            "Q": {
+                "Magic": 0,
+                "Physical": 6.621999999999986,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 440.8119999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 2.1329999999999956,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 225.62199999999999,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 144.08249999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 10.7575,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 444.94749999999993,
+                "True": 0
+            },
+            "E": {
+                "Magic": 33.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 229.7575,
+                "True": 0
+            }
+        }
+    },
+    "660248": {
+        "Azir": {
+            "Attack": 71.31,
+            "Q": {
+                "Magic": 0,
+                "Physical": -65.225,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 372.817,
+                "True": 0
+            },
+            "E": {
+                "Magic": 32.201499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 153.775,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 77.2635,
+            "Q": {
+                "Magic": 0,
+                "Physical": -59.2715,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 378.77049999999997,
+                "True": 0
+            },
+            "E": {
+                "Magic": -2.1822499999999962,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 159.7285,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 126.905,
+            "Q": {
+                "Magic": 0,
+                "Physical": -9.629999999999995,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 428.412,
+                "True": 0
+            },
+            "E": {
+                "Magic": 50.011250000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 209.37,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 138.2925,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1.7574999999999932,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 439.79949999999997,
+                "True": 0
+            },
+            "E": {
+                "Magic": 25.011250000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 220.7575,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 142.2635,
+            "Q": {
+                "Magic": 0,
+                "Physical": 5.728499999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 443.77049999999997,
+                "True": 0
+            },
+            "E": {
+                "Magic": 57.201499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 224.7285,
+                "True": 0
+            }
+        }
+    },
+    "720256": {
+        "Azir": {
+            "Attack": 99.625,
+            "Q": {
+                "Magic": 0,
+                "Physical": -55.224999999999994,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 406.79499999999996,
+                "True": 0
+            },
+            "E": {
+                "Magic": 32.201499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 178.775,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 90.57849999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -64.2715,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 397.7485,
+                "True": 0
+            },
+            "E": {
+                "Magic": -12.18225000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 169.7285,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 149.656,
+            "Q": {
+                "Magic": 0,
+                "Physical": -5.194000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 456.82599999999996,
+                "True": 0
+            },
+            "E": {
+                "Magic": 72.81775,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 228.80599999999998,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 161.5785,
+            "Q": {
+                "Magic": 0,
+                "Physical": 6.728499999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 468.7485,
+                "True": 0
+            },
+            "E": {
+                "Magic": 47.817750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 240.7285,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 170.5785,
+            "Q": {
+                "Magic": 0,
+                "Physical": 15.728499999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 477.7485,
+                "True": 0
+            },
+            "E": {
+                "Magic": 82.2015,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 249.7285,
+                "True": 0
+            }
+        }
+    },
+    "780284": {
+        "Azir": {
+            "Attack": 94.1,
+            "Q": {
+                "Magic": 0,
+                "Physical": -60.75,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 401.27,
+                "True": 0
+            },
+            "E": {
+                "Magic": 30.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 173.25,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 85.38499999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -69.465,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 392.55499999999995,
+                "True": 0
+            },
+            "E": {
+                "Magic": -14.447499999999991,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 164.535,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 149.656,
+            "Q": {
+                "Magic": 0,
+                "Physical": -5.194000000000003,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 456.82599999999996,
+                "True": 0
+            },
+            "E": {
+                "Magic": 72.81775,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 228.80599999999998,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 161.5785,
+            "Q": {
+                "Magic": 0,
+                "Physical": 6.728499999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 468.7485,
+                "True": 0
+            },
+            "E": {
+                "Magic": 47.817750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 240.7285,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 165.385,
+            "Q": {
+                "Magic": 0,
+                "Physical": 10.534999999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 472.55499999999995,
+                "True": 0
+            },
+            "E": {
+                "Magic": 80.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 244.535,
+                "True": 0
+            }
+        }
+    },
+    "840298": {
+        "Azir": {
+            "Attack": 106.82000000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": -60.44999999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 417.67400000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": 54.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 182.55,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 98.447,
+            "Q": {
+                "Magic": 0,
+                "Physical": -68.82300000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 409.30100000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": 8.215499999999992,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 174.177,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 156.402,
+            "Q": {
+                "Magic": 0,
+                "Physical": -10.86800000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 467.25600000000003,
+                "True": 0
+            },
+            "E": {
+                "Magic": 93.21549999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 232.132,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 174.805,
+            "Q": {
+                "Magic": 0,
+                "Physical": 7.534999999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 485.659,
+                "True": 0
+            },
+            "E": {
+                "Magic": 70.5525,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 250.535,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 178.447,
+            "Q": {
+                "Magic": 0,
+                "Physical": 11.176999999999992,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 489.30100000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": 104.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 254.177,
+                "True": 0
+            }
+        }
+    },
+    "900313": {
+        "Azir": {
+            "Attack": 110.34500000000003,
+            "Q": {
+                "Magic": 0,
+                "Physical": -51.44999999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 421.90400000000005,
+                "True": 0
+            },
+            "E": {
+                "Magic": 44.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 182.55,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 46.97200000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": -114.82300000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 358.53100000000006,
+                "True": 0
+            },
+            "E": {
+                "Magic": 8.215499999999992,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 119.17699999999999,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 159.92700000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": -1.8680000000000092,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 471.48600000000005,
+                "True": 0
+            },
+            "E": {
+                "Magic": 93.21549999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 232.132,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 172.972,
+            "Q": {
+                "Magic": 0,
+                "Physical": 11.176999999999992,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 484.53100000000006,
+                "True": 0
+            },
+            "E": {
+                "Magic": 68.21549999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 245.177,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 181.972,
+            "Q": {
+                "Magic": 0,
+                "Physical": 20.176999999999992,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 493.53100000000006,
+                "True": 0
+            },
+            "E": {
+                "Magic": 104.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 254.177,
+                "True": 0
+            }
+        }
+    },
+    "960326": {
+        "Azir": {
+            "Attack": 68.10000000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": -73.32499999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 372.38500000000005,
+                "True": 0
+            },
+            "E": {
+                "Magic": 42.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 136.675,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 5.079499999999996,
+            "Q": {
+                "Magic": 0,
+                "Physical": -136.34550000000002,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 309.3645,
+                "True": 0
+            },
+            "E": {
+                "Magic": 5.806750000000022,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 73.65449999999998,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 117.44700000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": -23.977999999999994,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 421.732,
+                "True": 0
+            },
+            "E": {
+                "Magic": 90.80675000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 186.022,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 131.0795,
+            "Q": {
+                "Magic": 0,
+                "Physical": -10.345500000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 435.3645,
+                "True": 0
+            },
+            "E": {
+                "Magic": 65.80675000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 199.65449999999998,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 140.0795,
+            "Q": {
+                "Magic": 0,
+                "Physical": -1.3455000000000013,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 444.3645,
+                "True": 0
+            },
+            "E": {
+                "Magic": 102.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 208.65449999999998,
+                "True": 0
+            }
+        }
+    },
+    "1020358": {
+        "Azir": {
+            "Attack": 62.05000000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": -79.375,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 366.33500000000004,
+                "True": 0
+            },
+            "E": {
+                "Magic": 41.182500000000005,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 230.625,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": -0.6074999999999875,
+            "Q": {
+                "Magic": 0,
+                "Physical": -142.0325,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 303.6775,
+                "True": 0
+            },
+            "E": {
+                "Magic": 3.326250000000016,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 167.9675,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 117.44700000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": -23.977999999999994,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 421.732,
+                "True": 0
+            },
+            "E": {
+                "Magic": 90.80675000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 286.022,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 131.0795,
+            "Q": {
+                "Magic": 0,
+                "Physical": -10.345500000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 435.3645,
+                "True": 0
+            },
+            "E": {
+                "Magic": 65.80675000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 299.6545,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 140.0795,
+            "Q": {
+                "Magic": 0,
+                "Physical": -1.3455000000000013,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 444.3645,
+                "True": 0
+            },
+            "E": {
+                "Magic": 102.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 308.6545,
+                "True": 0
+            }
+        }
+    },
+    "1080366": {
+        "Azir": {
+            "Attack": 65.785,
+            "Q": {
+                "Magic": 0,
+                "Physical": -70.375,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 370.817,
+                "True": 0
+            },
+            "E": {
+                "Magic": 41.182500000000005,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 230.625,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": -2.724000000000018,
+            "Q": {
+                "Magic": 0,
+                "Physical": -138.88400000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 302.308,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0.7740000000000009,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 162.11599999999999,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 114.88999999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -21.27000000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 419.922,
+                "True": 0
+            },
+            "E": {
+                "Magic": 88.32625,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 279.73,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 129.1275,
+            "Q": {
+                "Magic": 0,
+                "Physical": -7.032499999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 434.1595,
+                "True": 0
+            },
+            "E": {
+                "Magic": 63.32625,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 293.9675,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 138.1275,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1.9675000000000011,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 443.1595,
+                "True": 0
+            },
+            "E": {
+                "Magic": 101.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 302.9675,
+                "True": 0
+            }
+        }
+    },
+    "1140388": {
+        "Azir": {
+            "Attack": 69.625,
+            "Q": {
+                "Magic": 0,
+                "Physical": -61.375,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 375.42499999999995,
+                "True": 0
+            },
+            "E": {
+                "Magic": 41.182500000000005,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 230.625,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 1.1159999999999854,
+            "Q": {
+                "Magic": 0,
+                "Physical": -129.88400000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 306.91599999999994,
+                "True": 0
+            },
+            "E": {
+                "Magic": -54.226,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 162.11599999999999,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 118.72999999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": -12.27000000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 424.53,
+                "True": 0
+            },
+            "E": {
+                "Magic": 88.32625,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 279.73,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 132.9675,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1.9675000000000011,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 438.7674999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 63.32625,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 293.9675,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 141.9675,
+            "Q": {
+                "Magic": 0,
+                "Physical": 10.967500000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 447.7674999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 101.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 302.9675,
+                "True": 0
+            }
+        }
+    },
+    "1147886": {
+        "Azir": {
+            "Attack": 19.625,
+            "Q": {
+                "Magic": 0,
+                "Physical": -42.375,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 404.17499999999995,
+                "True": 0
+            },
+            "E": {
+                "Magic": 318.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 505.125,
+                "True": 0
+            }
+        },
+        "Nasus": {
+            "Attack": 6.116,
+            "Q": {
+                "Magic": 0,
+                "Physical": -55.884,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 390.66599999999994,
+                "True": 0
+            },
+            "E": {
+                "Magic": 302.774,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 491.616,
+                "True": 0
+            }
+        },
+        "Maokai": {
+            "Attack": 3.7299999999999898,
+            "Q": {
+                "Magic": 0,
+                "Physical": -58.27000000000001,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 388.28,
+                "True": 0
+            },
+            "E": {
+                "Magic": 305.32625,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 489.23,
+                "True": 0
+            }
+        },
+        "Katarina": {
+            "Attack": 17.9675,
+            "Q": {
+                "Magic": 0,
+                "Physical": -44.0325,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 402.5174999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 305.32625,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 503.4675,
+                "True": 0
+            }
+        },
+        "Annie": {
+            "Attack": 26.9675,
+            "Q": {
+                "Magic": 0,
+                "Physical": -35.0325,
+                "True": 0
+            },
+            "W": {
+                "Magic": 0,
+                "Physical": 411.5174999999999,
+                "True": 0
+            },
+            "E": {
+                "Magic": 318.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 512.4675,
+                "True": 0
+            }
+        }
+    }
+}

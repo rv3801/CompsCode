@@ -1,0 +1,2927 @@
+{
+    "0": {
+        "Amumu": {
+            "Attack": 38.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 630.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 228.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 545.0,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 41.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 633.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 230.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 548.0,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 40.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 632.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 230.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 547.0,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 48.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 640.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 234.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 555.0,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 44.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 636.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 230.0,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 551.0,
+                "True": 0
+            }
+        }
+    },
+    "60004": {
+        "Amumu": {
+            "Attack": 43.00000000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 257.1,
+                "True": 0
+            },
+            "W": {
+                "Magic": 24.97625,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 554.1,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 60.705000000000005,
+            "Q": {
+                "Magic": 0,
+                "Physical": 274.805,
+                "True": 0
+            },
+            "W": {
+                "Magic": 28.0825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 571.805,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 59.705000000000005,
+            "Q": {
+                "Magic": 0,
+                "Physical": 273.805,
+                "True": 0
+            },
+            "W": {
+                "Magic": 28.0825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 570.805,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 67.70500000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 281.805,
+                "True": 0
+            },
+            "W": {
+                "Magic": 32.082499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 578.805,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 63.33625000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 277.43625,
+                "True": 0
+            },
+            "W": {
+                "Magic": 28.0825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 574.43625,
+                "True": 0
+            }
+        }
+    },
+    "120035": {
+        "Amumu": {
+            "Attack": 43.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 365.94,
+                "True": 0
+            },
+            "W": {
+                "Magic": 23.356749999999998,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 550.94,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 60.547,
+            "Q": {
+                "Magic": 0,
+                "Physical": 383.48699999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 27.055500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 568.487,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 59.547,
+            "Q": {
+                "Magic": 0,
+                "Physical": 382.48699999999997,
+                "True": 0
+            },
+            "W": {
+                "Magic": 27.055500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 567.487,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 67.547,
+            "Q": {
+                "Magic": 0,
+                "Physical": 390.487,
+                "True": 0
+            },
+            "W": {
+                "Magic": 31.0555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 575.487,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 62.98075,
+            "Q": {
+                "Magic": 0,
+                "Physical": 385.92075,
+                "True": 0
+            },
+            "W": {
+                "Magic": 27.055500000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 570.92075,
+                "True": 0
+            }
+        }
+    },
+    "180081": {
+        "Amumu": {
+            "Attack": 63.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 546.64,
+                "True": 0
+            },
+            "W": {
+                "Magic": 21.6655,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 577.64,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 80.382,
+            "Q": {
+                "Magic": 0,
+                "Physical": 564.022,
+                "True": 0
+            },
+            "W": {
+                "Magic": 25.982999999999997,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 595.022,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 79.382,
+            "Q": {
+                "Magic": 0,
+                "Physical": 563.022,
+                "True": 0
+            },
+            "W": {
+                "Magic": 25.982999999999997,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 594.022,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 83.77,
+            "Q": {
+                "Magic": 0,
+                "Physical": 567.41,
+                "True": 0
+            },
+            "W": {
+                "Magic": 28.865000000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 598.41,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 82.6095,
+            "Q": {
+                "Magic": 0,
+                "Physical": 566.2495,
+                "True": 0
+            },
+            "W": {
+                "Magic": 25.982999999999997,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 597.2495,
+                "True": 0
+            }
+        }
+    },
+    "240091": {
+        "Amumu": {
+            "Attack": 71.00000000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 590.2,
+                "True": 0
+            },
+            "W": {
+                "Magic": 19.902500000000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 289.7,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 113.21000000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 632.41,
+                "True": 0
+            },
+            "W": {
+                "Magic": 24.865000000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 331.90999999999997,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 112.21000000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 631.41,
+                "True": 0
+            },
+            "W": {
+                "Magic": 24.865000000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 330.90999999999997,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 120.21000000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 639.41,
+                "True": 0
+            },
+            "W": {
+                "Magic": 28.865000000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 338.90999999999997,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 115.22250000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 634.4225,
+                "True": 0
+            },
+            "W": {
+                "Magic": 24.865000000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 333.9225,
+                "True": 0
+            }
+        }
+    },
+    "300097": {
+        "Amumu": {
+            "Attack": 61.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 709.62,
+                "True": 0
+            },
+            "W": {
+                "Magic": 18.067750000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 276.12,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 113.03099999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 761.651,
+                "True": 0
+            },
+            "W": {
+                "Magic": 23.701499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 328.151,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 112.03099999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 760.651,
+                "True": 0
+            },
+            "W": {
+                "Magic": 23.701499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 327.151,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 116.125,
+            "Q": {
+                "Magic": 0,
+                "Physical": 764.745,
+                "True": 0
+            },
+            "W": {
+                "Magic": 26.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 331.245,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 114.81975,
+            "Q": {
+                "Magic": 0,
+                "Physical": 763.43975,
+                "True": 0
+            },
+            "W": {
+                "Magic": 23.701499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 329.93975,
+                "True": 0
+            }
+        }
+    },
+    "360098": {
+        "Amumu": {
+            "Attack": 57.28,
+            "Q": {
+                "Magic": 0,
+                "Physical": 705.9,
+                "True": 0
+            },
+            "W": {
+                "Magic": 16.161250000000003,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 272.4,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 109.125,
+            "Q": {
+                "Magic": 0,
+                "Physical": 757.745,
+                "True": 0
+            },
+            "W": {
+                "Magic": 22.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 324.245,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 108.125,
+            "Q": {
+                "Magic": 0,
+                "Physical": 756.745,
+                "True": 0
+            },
+            "W": {
+                "Magic": 22.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 323.245,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 116.125,
+            "Q": {
+                "Magic": 0,
+                "Physical": 764.745,
+                "True": 0
+            },
+            "W": {
+                "Magic": 26.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 331.245,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 110.68124999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 759.30125,
+                "True": 0
+            },
+            "W": {
+                "Magic": 22.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 325.80125,
+                "True": 0
+            }
+        }
+    },
+    "420131": {
+        "Amumu": {
+            "Attack": 49.860000000000014,
+            "Q": {
+                "Magic": 0,
+                "Physical": 823.9,
+                "True": 0
+            },
+            "W": {
+                "Magic": -8.838750000000005,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 257.4,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 116.70500000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 890.745,
+                "True": 0
+            },
+            "W": {
+                "Magic": 22.4925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 324.245,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 111.652,
+            "Q": {
+                "Magic": 0,
+                "Physical": 885.692,
+                "True": 0
+            },
+            "W": {
+                "Magic": 21.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 319.192,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 119.652,
+            "Q": {
+                "Magic": 0,
+                "Physical": 893.692,
+                "True": 0
+            },
+            "W": {
+                "Magic": 25.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 327.192,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 113.96700000000001,
+            "Q": {
+                "Magic": 0,
+                "Physical": 888.007,
+                "True": 0
+            },
+            "W": {
+                "Magic": 21.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 321.507,
+                "True": 0
+            }
+        }
+    },
+    "480133": {
+        "Amumu": {
+            "Attack": 37.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 811.04,
+                "True": 0
+            },
+            "W": {
+                "Magic": -10.817000000000007,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 244.54,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 128.652,
+            "Q": {
+                "Magic": 0,
+                "Physical": 902.692,
+                "True": 0
+            },
+            "W": {
+                "Magic": 21.238,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 336.192,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 123.452,
+            "Q": {
+                "Magic": 0,
+                "Physical": 897.492,
+                "True": 0
+            },
+            "W": {
+                "Magic": 19.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 330.99199999999996,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 131.452,
+            "Q": {
+                "Magic": 0,
+                "Physical": 905.492,
+                "True": 0
+            },
+            "W": {
+                "Magic": 23.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 338.99199999999996,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 125.517,
+            "Q": {
+                "Magic": 0,
+                "Physical": 899.557,
+                "True": 0
+            },
+            "W": {
+                "Magic": 19.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 333.057,
+                "True": 0
+            }
+        }
+    },
+    "540136": {
+        "Amumu": {
+            "Attack": 22.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 792.04,
+                "True": 0
+            },
+            "W": {
+                "Magic": -12.867000000000004,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 225.54,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 128.452,
+            "Q": {
+                "Magic": 0,
+                "Physical": 898.492,
+                "True": 0
+            },
+            "W": {
+                "Magic": 19.937999999999995,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 331.99199999999996,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 123.105,
+            "Q": {
+                "Magic": 0,
+                "Physical": 893.145,
+                "True": 0
+            },
+            "W": {
+                "Magic": 18.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 326.645,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 131.10500000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": 901.145,
+                "True": 0
+            },
+            "W": {
+                "Magic": 22.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 334.645,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 124.91125,
+            "Q": {
+                "Magic": 0,
+                "Physical": 894.95125,
+                "True": 0
+            },
+            "W": {
+                "Magic": 18.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 328.45125,
+                "True": 0
+            }
+        }
+    },
+    "600165": {
+        "Amumu": {
+            "Attack": 37.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 859.9,
+                "True": 0
+            },
+            "W": {
+                "Magic": -14.988749999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 393.9,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 143.245,
+            "Q": {
+                "Magic": 0,
+                "Physical": 966.145,
+                "True": 0
+            },
+            "W": {
+                "Magic": 18.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 500.145,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 137.75099999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 960.651,
+                "True": 0
+            },
+            "W": {
+                "Magic": 17.201499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 494.651,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 145.75099999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 968.651,
+                "True": 0
+            },
+            "W": {
+                "Magic": 21.201499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 502.651,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 144.05124999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 966.95125,
+                "True": 0
+            },
+            "W": {
+                "Magic": 18.5925,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 500.95125,
+                "True": 0
+            }
+        }
+    },
+    "660189": {
+        "Amumu": {
+            "Attack": 31.28,
+            "Q": {
+                "Magic": 0,
+                "Physical": 849.9,
+                "True": 0
+            },
+            "W": {
+                "Magic": -39.988749999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 383.9,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 143.031,
+            "Q": {
+                "Magic": 0,
+                "Physical": 961.651,
+                "True": 0
+            },
+            "W": {
+                "Magic": 17.201499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 495.651,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 142.031,
+            "Q": {
+                "Magic": 0,
+                "Physical": 960.651,
+                "True": 0
+            },
+            "W": {
+                "Magic": 17.201499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 494.651,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 150.031,
+            "Q": {
+                "Magic": 0,
+                "Physical": 968.651,
+                "True": 0
+            },
+            "W": {
+                "Magic": 21.201499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 502.651,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 143.56975,
+            "Q": {
+                "Magic": 0,
+                "Physical": 962.18975,
+                "True": 0
+            },
+            "W": {
+                "Magic": 17.201499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 496.18975,
+                "True": 0
+            }
+        }
+    },
+    "720216": {
+        "Amumu": {
+            "Attack": 31.420000000000016,
+            "Q": {
+                "Magic": 0,
+                "Physical": 845.62,
+                "True": 0
+            },
+            "W": {
+                "Magic": -67.18225,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 379.62,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 147.45100000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": 961.651,
+                "True": 0
+            },
+            "W": {
+                "Magic": 17.201499999999996,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 495.651,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 141.81,
+            "Q": {
+                "Magic": 0,
+                "Physical": 956.01,
+                "True": 0
+            },
+            "W": {
+                "Magic": 15.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 490.01,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 149.81,
+            "Q": {
+                "Magic": 0,
+                "Physical": 964.01,
+                "True": 0
+            },
+            "W": {
+                "Magic": 19.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 498.01,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 143.0725,
+            "Q": {
+                "Magic": 0,
+                "Physical": 957.2725,
+                "True": 0
+            },
+            "W": {
+                "Magic": 15.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 491.2725,
+                "True": 0
+            }
+        }
+    },
+    "780230": {
+        "Amumu": {
+            "Attack": 31.420000000000016,
+            "Q": {
+                "Magic": 0,
+                "Physical": 845.62,
+                "True": 0
+            },
+            "W": {
+                "Magic": -67.18225,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 379.62,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 142.81,
+            "Q": {
+                "Magic": 0,
+                "Physical": 957.01,
+                "True": 0
+            },
+            "W": {
+                "Magic": 15.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 491.01,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 141.81,
+            "Q": {
+                "Magic": 0,
+                "Physical": 956.01,
+                "True": 0
+            },
+            "W": {
+                "Magic": 15.765,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 490.01,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 145.022,
+            "Q": {
+                "Magic": 0,
+                "Physical": 959.222,
+                "True": 0
+            },
+            "W": {
+                "Magic": 18.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 493.222,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 137.9995,
+            "Q": {
+                "Magic": 0,
+                "Physical": 952.1995,
+                "True": 0
+            },
+            "W": {
+                "Magic": 14.283000000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 486.1995,
+                "True": 0
+            }
+        }
+    },
+    "840263": {
+        "Amumu": {
+            "Attack": 31.560000000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": 841.2,
+                "True": 0
+            },
+            "W": {
+                "Magic": -19.44749999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 375.2,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 142.582,
+            "Q": {
+                "Magic": 0,
+                "Physical": 952.222,
+                "True": 0
+            },
+            "W": {
+                "Magic": 64.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 486.222,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 141.582,
+            "Q": {
+                "Magic": 0,
+                "Physical": 951.222,
+                "True": 0
+            },
+            "W": {
+                "Magic": 64.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 485.222,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 149.582,
+            "Q": {
+                "Magic": 0,
+                "Physical": 959.222,
+                "True": 0
+            },
+            "W": {
+                "Magic": 68.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 493.222,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 142.5595,
+            "Q": {
+                "Magic": 0,
+                "Physical": 952.1995,
+                "True": 0
+            },
+            "W": {
+                "Magic": 64.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 486.1995,
+                "True": 0
+            }
+        }
+    },
+    "900285": {
+        "Amumu": {
+            "Attack": 96.69999999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1129.6399999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": -21.78450000000001,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 465.64,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 212.28199999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1245.222,
+                "True": 0
+            },
+            "W": {
+                "Magic": 64.283,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 581.222,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 206.34699999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1239.287,
+                "True": 0
+            },
+            "W": {
+                "Magic": 62.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 575.287,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 214.34699999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1247.287,
+                "True": 0
+            },
+            "W": {
+                "Magic": 66.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 583.287,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 207.03075,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1239.97075,
+                "True": 0
+            },
+            "W": {
+                "Magic": 62.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 575.97075,
+                "True": 0
+            }
+        }
+    },
+    "960286": {
+        "Amumu": {
+            "Attack": 96.69999999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1129.6399999999999,
+                "True": 0
+            },
+            "W": {
+                "Magic": 23.21549999999999,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 465.64,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 207.34699999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1240.287,
+                "True": 0
+            },
+            "W": {
+                "Magic": 112.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 576.287,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 206.34699999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1239.287,
+                "True": 0
+            },
+            "W": {
+                "Magic": 112.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 575.287,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 214.34699999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1247.287,
+                "True": 0
+            },
+            "W": {
+                "Magic": 116.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 583.287,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 201.64625,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1234.58625,
+                "True": 0
+            },
+            "W": {
+                "Magic": 111.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 570.58625,
+                "True": 0
+            }
+        }
+    },
+    "1020315": {
+        "Amumu": {
+            "Attack": 96.84,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1124.94,
+                "True": 0
+            },
+            "W": {
+                "Magic": 20.806750000000022,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 610.94,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 212.187,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1240.287,
+                "True": 0
+            },
+            "W": {
+                "Magic": 112.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 726.287,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 211.187,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1239.287,
+                "True": 0
+            },
+            "W": {
+                "Magic": 112.7555,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 725.287,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 214.10500000000002,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1242.205,
+                "True": 0
+            },
+            "W": {
+                "Magic": 115.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 728.205,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 206.48624999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1234.58625,
+                "True": 0
+            },
+            "W": {
+                "Magic": 111.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 720.58625,
+                "True": 0
+            }
+        }
+    },
+    "1080325": {
+        "Amumu": {
+            "Attack": 96.97999999999999,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1120.1,
+                "True": 0
+            },
+            "W": {
+                "Magic": 68.32625000000002,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 606.1,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 212.08499999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1235.205,
+                "True": 0
+            },
+            "W": {
+                "Magic": 161.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 721.205,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 211.08499999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1234.205,
+                "True": 0
+            },
+            "W": {
+                "Magic": 161.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 720.205,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 219.08499999999998,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1242.205,
+                "True": 0
+            },
+            "W": {
+                "Magic": 165.1825,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 728.205,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 205.926,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1229.046,
+                "True": 0
+            },
+            "W": {
+                "Magic": 159.564,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 715.046,
+                "True": 0
+            }
+        }
+    },
+    "1140350": {
+        "Amumu": {
+            "Attack": 160.12,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1368.12,
+                "True": 0
+            },
+            "W": {
+                "Magic": 115.774,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 689.12,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 274.976,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1482.976,
+                "True": 0
+            },
+            "W": {
+                "Magic": 209.564,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 803.976,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 273.976,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1481.976,
+                "True": 0
+            },
+            "W": {
+                "Magic": 209.564,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 802.976,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 276.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1484.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 211.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 805.6,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 274.046,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1482.046,
+                "True": 0
+            },
+            "W": {
+                "Magic": 209.564,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 803.046,
+                "True": 0
+            }
+        }
+    },
+    "1200352": {
+        "Amumu": {
+            "Attack": 160.12,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1368.12,
+                "True": 0
+            },
+            "W": {
+                "Magic": 115.774,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 689.12,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 274.976,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1482.976,
+                "True": 0
+            },
+            "W": {
+                "Magic": 209.564,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 803.976,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 273.976,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1481.976,
+                "True": 0
+            },
+            "W": {
+                "Magic": 209.564,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 802.976,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 276.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1484.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 211.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 805.6,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 268.35,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1476.35,
+                "True": 0
+            },
+            "W": {
+                "Magic": 207.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 797.35,
+                "True": 0
+            }
+        }
+    },
+    "1260373": {
+        "Amumu": {
+            "Attack": 155.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1363.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 113.15,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 684.0,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 269.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1477.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 207.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 798.6,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 268.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1476.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 207.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 797.6,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 276.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1484.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 211.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 805.6,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 268.35,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1476.35,
+                "True": 0
+            },
+            "W": {
+                "Magic": 207.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 797.35,
+                "True": 0
+            }
+        }
+    },
+    "1320385": {
+        "Amumu": {
+            "Attack": 205.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1603.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 113.15,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 759.0,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 319.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1717.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 182.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 873.6,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 318.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1716.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 207.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 872.6,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 276.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1674.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 211.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 830.6,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 318.35,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1716.35,
+                "True": 0
+            },
+            "W": {
+                "Magic": 207.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 872.35,
+                "True": 0
+            }
+        }
+    },
+    "1380392": {
+        "Amumu": {
+            "Attack": 205.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1603.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 113.15,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 759.0,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 319.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1717.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 182.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 873.6,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 318.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1716.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 207.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 872.6,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 276.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1674.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 211.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 830.6,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 318.35,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1716.35,
+                "True": 0
+            },
+            "W": {
+                "Magic": 207.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 872.35,
+                "True": 0
+            }
+        }
+    },
+    "1405881": {
+        "Amumu": {
+            "Attack": 205.0,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1603.0,
+                "True": 0
+            },
+            "W": {
+                "Magic": 113.15,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 759.0,
+                "True": 0
+            }
+        },
+        "Twitch": {
+            "Attack": 319.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1717.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 182.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 873.6,
+                "True": 0
+            }
+        },
+        "MissFortune": {
+            "Attack": 318.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1716.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 207.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 872.6,
+                "True": 0
+            }
+        },
+        "Orianna": {
+            "Attack": 276.6,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1674.6,
+                "True": 0
+            },
+            "W": {
+                "Magic": 211.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 830.6,
+                "True": 0
+            }
+        },
+        "KogMaw": {
+            "Attack": 318.35,
+            "Q": {
+                "Magic": 0,
+                "Physical": 1716.35,
+                "True": 0
+            },
+            "W": {
+                "Magic": 207.9,
+                "Physical": 0,
+                "True": 0
+            },
+            "E": {
+                "Magic": 0,
+                "Physical": 0,
+                "True": 0
+            },
+            "R": {
+                "Magic": 0,
+                "Physical": 872.35,
+                "True": 0
+            }
+        }
+    }
+}
