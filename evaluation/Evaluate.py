@@ -13,7 +13,7 @@ def main():
 	Code below is to be used with a Riot API Key.
 
 	If you don't have one, skip to the next section.
-	
+
 	If you do have one, make sure it is pasted in a 
 	text file located within the "evaluation" folder.
 	"""
@@ -44,7 +44,7 @@ def main():
 	# user_region = "NA1"
 	
 	# user_matchlist = lol_watcher.match.matchlist_by_puuid(region=user_region, puuid=user_puuid, count=1) # Use https://static.developer.riotgames.com/docs/lol/queues.json to find queue number
-	# # user_matchlist = [] # use this when you have a list of match ids you'd prefer to use 
+	# # user_matchlist = [] # use this when you have a list of match ids you'd prefer to use. JSON file names in match_damage_summaries are match ids that can be used here.
 
 	# for user_match in user_matchlist:
 	# 	this_match = LoLMatch(user_match)
