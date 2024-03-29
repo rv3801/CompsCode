@@ -9,7 +9,7 @@ class LoLDamageCalculator:
 	def calculate_damage_summary(self, current_participant, enemy_participants, timestamp=None):
 		"""
 		print summary of current_participant damage against each enemy_participant at the given timestamp
-
+		returns dict with summary
 		ex.
 		Damage at timestamp ____:
 		vs Participant 1:
@@ -23,20 +23,23 @@ class LoLDamageCalculator:
 		"""
 		if timestamp is None:
 			match_timestamps = tuple(current_participant.timeline.keys())
+			return_timestamps = {}
 			for match_timestamp in match_timestamps:
-				self.calculate_damage_summary(current_participant, enemy_participants, match_timestamp)
+				return_timestamps.update(self.calculate_damage_summary(current_participant, enemy_participants, match_timestamp))
+			return return_timestamps
 		else:
 			current_participant_state = current_participant.get_state(timestamp)
 			enemy_participants_states = {enemy_participant.participant_id: enemy_participant.get_state(timestamp) for enemy_participant in enemy_participants}
 
 			print("\n============================")
 			print(f"Damage at timestamp {timestamp}")
+			return_timestamps = {timestamp: {}}
 			# print(f"Current Participant: ({current_participant.champion_name})\n{current_participant_state}")
 			for enemy_state in enemy_participants_states:
 				current_enemy_state = enemy_participants_states[enemy_state]
 				# print(f"Enemy {enemy_state}:\n{current_enemy_state}")
-				self.calculate_vs_damage(current_participant_state, current_enemy_state)
-			pass
+				return_timestamps[timestamp].update(self.calculate_vs_damage(current_participant_state, current_enemy_state))
+			return return_timestamps
 	
 	def calculate_vs_damage(self, current_participant_state, enemy_participant_state):
 		#first get stats
@@ -57,21 +60,40 @@ class LoLDamageCalculator:
 		champion_abilities = {"Q": 0, "W": 1, "E": 2, "R": 3}
 		print(f"Current Participant ({current_participant_state['champion_name']}) Damage versus {enemy_participant_state['champion_name']}:")
 		
+		return_damage = {enemy_participant_state['champion_name']: {}}
+
 		#attack damage
-		attack_damage = 0
+		if current_par_stats["offense"]["bonus_ad"] == 0:
+			current_ad = current_par_stats["offense"]["base_ad"]
+		else:
+			current_ad = current_par_stats["offense"]["base_ad"] + current_par_stats["offense"]["bonus_ad"]["flat"]
+
+		if enemy_par_stats["defense"]["bonus_armor"] == 0:
+			enemy_armor = enemy_par_stats["defense"]["armor"]
+		else:
+			enemy_armor = enemy_par_stats["defense"]["armor"] + enemy_par_stats["defense"]["bonus_armor"]["flat"]
+		
+		if current_par_stats["offense"]["armor_pen"] != 0:
+			enemy_armor = enemy_armor * ( (100 - current_par_stats["offense"]["armor_pen"]["percent"]) / 100)
+		if current_par_stats["offense"]["lethality"] != 0:
+			enemy_armor = enemy_armor - current_par_stats["offense"]["lethality"]["flat"]
+		
+		champion_attack_damage = current_ad - enemy_armor
+		return_damage[enemy_participant_state['champion_name']]["Attack"] = champion_attack_damage
+		print(f"Attack Damage: {champion_attack_damage}")
 
 		#abilities damage
 		for ability in champion_abilities:
 			current_ability_level = current_participant_state["state"]["skills"][champion_abilities[ability]]
 			print(f"{ability} Ability:\n\tAbility Level: {current_ability_level}")
 			if current_ability_level == 0:
-				continue
+				return_damage[enemy_participant_state['champion_name']][ability] = {"Magic": 0, "Physical": 0, "True": 0}
 
 			current_ability_info = current_par_champion_info["abilities"][ability][0]
 			current_ability_damage_type = current_ability_info["damageType"]
 			# print(f"\tDamage Type: {current_ability_damage_type}")
 			if current_ability_damage_type == None:
-				continue
+				return_damage[enemy_participant_state['champion_name']][ability] = {"Magic": 0, "Physical": 0, "True": 0}
 
 			total_ability_damage = {"magic_damage": 0, "physical_damage": 0, "true_damage": 0}
 
@@ -79,6 +101,7 @@ class LoLDamageCalculator:
 				"Magic Damage": "magic_damage",
 				"Physical Damage": "physical_damage",
 				"True Damage": "true_damage",
+				"Physical Damage Per Hit": "physical_damage",
 				"Initial Magic Damage": "magic_damage",
 				"Initial Physical Damage": "physical_damage",
 				"Bonus Magic Damage": "magic_damage",
@@ -89,6 +112,8 @@ class LoLDamageCalculator:
 				"Bonus Physical Damage per Hit": "physical_damage",
 				"Bonus Physical Damage per Tick": "physical_damage",
 				"Bonus Physical Damage On-Hit": "physical_damage",
+				"Total Physical Damage": "physical_damage",
+				"Physical Damage Per Feather": "physical_damage",
 				"Bonus True Damage": "true_damage",
 				"ChampionTrue Damage": "true_damage"
 			}
@@ -112,36 +137,52 @@ class LoLDamageCalculator:
 							case '':
 								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + modifier_base_value
 							case "% AP":
-								current_ap = current_par_stats["offense"]["ap"]["flat"]
+								if current_par_stats["offense"]["ap"] == 0:
+									current_ap = 0
+								else:
+									current_ap = current_par_stats["offense"]["ap"]["flat"]
 								modifier_decimal = modifier_base_value / 100
 								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + (current_ap * modifier_decimal)
 								pass
 							case "% AD":
-								current_ad = current_par_stats["offense"]["base_ad"] + current_par_stats["offense"]["bonus_ad"]
+								if current_par_stats["offense"]["bonus_ad"] == 0:
+									current_ad = current_par_stats["offense"]["base_ad"]
+								else:
+									current_ad = current_par_stats["offense"]["base_ad"] + current_par_stats["offense"]["bonus_ad"]["flat"]
 								modifier_decimal = modifier_base_value / 100
 								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + (current_ad * modifier_decimal)
 								pass
 							case "% armor":
-								current_armor = current_par_stats["defense"]["base_armor"] + current_par_stats["defense"]["bonus_armor"]
+								if current_par_stats["defense"]["bonus_armor"] == 0:
+									current_armor = current_par_stats["defense"]["armor"]
+								else:
+									current_armor = current_par_stats["defense"]["armor"] + current_par_stats["defense"]["bonus_armor"]["flat"]
 								modifier_decimal = modifier_base_value / 100
 								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + (current_armor * modifier_decimal)
 								pass
 							case "% bonus AD":
-								current_bonus_ad = current_par_stats["offense"]["bonus_ad"]
+								if current_par_stats["offense"]["bonus_ad"] == 0:
+									current_bonus_ad = 0
+								else:
+									current_bonus_ad = current_par_stats["offense"]["bonus_ad"]["flat"]
 								modifier_decimal = modifier_base_value / 100
 								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + (current_bonus_ad * modifier_decimal)
 								pass
 							case "% bonus health":
-								current_bonus_health = current_par_stats["defense"]["bonus_health"]
+								if current_par_stats["defense"]["bonus_health"] == 0:
+									current_bonus_health = 0
+								else:
+									current_bonus_health = current_par_stats["defense"]["bonus_health"]["flat"]
 								modifier_decimal = modifier_base_value / 100
 								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + (current_bonus_health * modifier_decimal)
 								pass
 							case "% bonus magic resistance":
-								current_bonus_magic_resist = current_par_stats["defense"]["bonus_magic_resist"]
+								if current_par_stats["defense"]["bonus_magic_resist"] == 0:
+									current_bonus_magic_resist = current_par_stats["defense"]["magic_resist"]
+								else:
+									current_bonus_magic_resist = current_par_stats["defense"]["magic_resist"] + current_par_stats["defense"]["bonus_magic_resist"]["flat"]
 								modifier_decimal = modifier_base_value / 100
 								total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] = total_ability_damage[damage_type_routing[leveling_attribute["attribute"]]] + (current_bonus_magic_resist * modifier_decimal)
-								pass
-							case "% bonus movement speed":
 								pass
 			# print("\tTotal Premit Damage:")
 			# magic_damage = total_ability_damage["magic_damage"]
@@ -190,7 +231,10 @@ class LoLDamageCalculator:
 			print(f"\t\tPhysical: {mit_physical_damage}")
 			true_damage = total_ability_damage["true_damage"]
 			print(f"\t\tTrue: {true_damage}") # True damage cannot be mitigated by armor or magic resist
+
+			return_damage[enemy_participant_state['champion_name']][ability] = {"Magic": mit_magic_damage, "Physical": mit_physical_damage, "True": true_damage}
 			
+		return return_damage
 
 
 	def __get_current_stats(self, state):
@@ -293,35 +337,13 @@ class LoLDamageCalculator:
 
 		return (stat_base + (stat_growth * (champ_level - 1) * (0.7025 + (0.0175 * (champ_level - 1) ) ) ) )
 	
-	#define attack/ability damage calculator
 
 	def get_champion_byName(self, champion):
+		if champion == "FiddleSticks":
+			return self.champions_dict["Fiddlesticks"]
 		return self.champions_dict[champion]
 
 	def get_item(self, item):
 		return self.items_dict[str(item)]
 	
-
-
-	#
-	#
-	#
-	#
-	#
-	# temporary
-	def find_passives(self):
-		for item in self.items_dict:
-
-			for passive in self.items_dict[item]["passives"]:
-				passive_name = passive["name"]
-
-				for passive_stat in passive["stats"]:
-
-					for passive_stat_value in passive["stats"][passive_stat]:
-
-						if (passive["stats"][passive_stat][passive_stat_value] != 0):
-							print(item)
-							print(f"\t{passive_name}")
-							print(f"\t\t{passive_stat}")
-							print(f"\t\t\t{passive_stat_value}: " + str(passive["stats"][passive_stat][passive_stat_value]))
 	
